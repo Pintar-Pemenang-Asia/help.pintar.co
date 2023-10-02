@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhelp_pintar_co=self.webpackChunkhelp_pintar_co||[]).push([[309],{3563:e=>{e.exports=JSON.parse('{"label":"degrees","permalink":"/id/docs/tags/degrees","allTagsPath":"/id/docs/tags","count":1,"items":[{"id":"degrees/login","title":"Login","description":"Login Page","permalink":"/id/docs/degrees/login"}]}')}}]);
