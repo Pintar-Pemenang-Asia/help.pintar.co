@@ -70,13 +70,38 @@ const config = {
           src: 'https://storage.googleapis.com/cdn-1.pintaria.com/pintaria/v6/images/logo_pintar.svg',
         },
         items: [
+          {to: '/', label: 'Home', position: 'left'},
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'degrees',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Degrees',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            type: 'docSidebar',
+            sidebarId: 'enterprise',
+            position: 'left',
+            label: 'Enterprise',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'skills',
+            position: 'left',
+            label: 'Skills',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'prakerja',
+            position: 'left',
+            label: 'Prakerja',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'faq',
+            position: 'left',
+            label: 'FAQ',
+          },
+          {to: '/blog', label: 'Blog', position: 'right'},
           {
             href: 'https://github.com/Pintar-Pemenang-Asia/help.pintar.co',
             label: 'GitHub',
