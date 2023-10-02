@@ -13,8 +13,8 @@
             <link>https://help.pintar.co/blog/first-blog-post</link>
             <guid>https://help.pintar.co/blog/first-blog-post</guid>
             <pubDate>Mon, 15 Nov 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat.]]></description>
-            <content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat.</p>]]></content:encoded>
+            <description><![CDATA[test publish blog]]></description>
+            <content:encoded><![CDATA[<p>test publish blog</p>]]></content:encoded>
             <category>foo</category>
             <category>bar</category>
         </item>

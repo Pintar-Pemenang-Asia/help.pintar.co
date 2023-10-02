@@ -12,11 +12,11 @@
         <id>https://help.pintar.co/blog/first-blog-post</id>
         <link href="https://help.pintar.co/blog/first-blog-post"/>
         <updated>2021-11-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat.]]></summary>
-        <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat.</p>]]></content>
+        <summary type="html"><![CDATA[test publish blog]]></summary>
+        <content type="html"><![CDATA[<p>test publish blog</p>]]></content>
         <author>
-            <name>Garrison McMullen</name>
-            <uri>https://github.com/garrison0</uri>
+            <name>Juni Yadi</name>
+            <uri>https://github.com/juniyadi-pintar</uri>
         </author>
         <category label="foo" term="foo"/>
         <category label="bar" term="bar"/>
