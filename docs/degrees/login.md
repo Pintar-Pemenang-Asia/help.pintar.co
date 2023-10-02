@@ -4,12 +4,16 @@ slug: login
 tags:
   - degrees
 ---
-# Login as User
+# Login
 
-## Login Page
+## Login as User
+
+### Login Page
 
 - https://degrees.pintar.co
 
-# Login as Learner
+## Login as Learner
+
+### Login Page
 
 - https://degrees.pintar.co
