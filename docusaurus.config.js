@@ -117,15 +117,15 @@ const config = {
             items: [
               {
                 label: 'Tutorial Degree',
-                to: '/docs/degrees/intro',
+                to: '/docs/degrees/introduction',
               },
               {
                 label: 'Tutorial Enterprise',
-                to: '/docs/enterprise/intro',
+                to: '/docs/enterprise/introduction',
               },
               {
                 label: 'FAQ',
-                to: '/docs/faq/intro',
+                to: '/docs/faq/introduction',
               },
               {
                 label: 'Blog',
