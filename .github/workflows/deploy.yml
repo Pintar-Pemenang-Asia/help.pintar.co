@@ -24,6 +24,9 @@ jobs:
       - name: Delete Admin Build
         run: rm -rf static/admin
 
+      - name: Copy CNAME file
+        run: cp CNAME static/CNAME
+
       - name: Build website
         run: npm run build
 
