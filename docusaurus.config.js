@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Help Pintar',
   tagline: 'Documentation for Pintar',
-  favicon: 'img/favicon.ico',
+  favicon: 'https://storage.googleapis.com/cdn-1.pintaria.com/pintaria/pico/logo_pintaria_mobile.png',
 
   // Set the production url of your site here
   url: 'https://help.pintar.co',
@@ -42,14 +42,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/Pintar-Pemenang-Asia/help.pintar.co/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/Pintar-Pemenang-Asia/help.pintar.co/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -62,12 +62,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'https://storage.googleapis.com/cdn-1.pintaria.com/pintaria/v6/images/logo_pintar.svg',
       navbar: {
-        title: 'My Site',
+        title: 'Help',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Pintar Logo',
+          src: 'https://storage.googleapis.com/cdn-1.pintaria.com/pintaria/v6/images/logo_pintar.svg',
         },
         items: [
           {
@@ -78,7 +78,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/Pintar-Pemenang-Asia/help.pintar.co',
             label: 'GitHub',
             position: 'right',
           },
@@ -94,22 +94,30 @@ const config = {
                 label: 'Tutorial',
                 to: '/docs/intro',
               },
+              {
+                label: 'Blog',
+                to: '/blog',
+              },
             ],
           },
           {
-            title: 'Community',
+            title: 'Social',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Instagram',
+                href: 'https://www.instagram.com/pintar_co',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Tik Tok',
+                href: 'https://www.tiktok.com/@pintar_co',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Linked In',
+                href: 'https://www.linkedin.com/company/pintarco/',
+              },
+              {
+                label: 'GitHub',
+                href: 'https://github.com/Pintar-Pemenang-Asia/help.pintar.co',
               },
             ],
           },
@@ -117,17 +125,17 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: "About Us",
+                to: "https://pintar.co/about",
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
+                label: "Contact Us",
+                to: "https://pintar.co/page/contact-us",
+              }
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} PT. PINTAR PEMENANG ASIA.`,
       },
       prism: {
         theme: lightCodeTheme,
