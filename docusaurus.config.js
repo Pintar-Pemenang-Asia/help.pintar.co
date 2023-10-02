@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Help Pintar',
-  tagline: 'Documentation for Pintar',
+  title: 'Pintar Help',
+  tagline: 'Documentation for Pintar Webiste',
   favicon: 'https://storage.googleapis.com/cdn-1.pintaria.com/pintaria/pico/logo_pintaria_mobile.png',
 
   // Set the production url of your site here
