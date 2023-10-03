@@ -12,7 +12,7 @@ backend:
     create: Create {{collection}} “{{slug}}”
     update: Update {{collection}} “{{slug}}”
     delete: Delete {{collection}} “{{slug}}”
-    uploadMedia: Upload “{{path}} [skip ci]”
+    uploadMedia: Upload “{{path}}" [skip ci]
     deleteMedia: Delete “{{path}}”
     openAuthoring: '{{message}}'
 
