@@ -50,7 +50,7 @@ collections:
   fields:
     - { name: title, label: Title, widget: string }
     - { name: body, label: Body, widget: markdown }
-    - { name: sidebar_position, label: Sidebar Position, widget: string }
+    - { name: sidebar_position, label: Sidebar Position, widget: number, value_type: int }
     - label: "Tags"
       name: "tags"
       widget: "list"
@@ -65,7 +65,7 @@ collections:
   fields:
     - { name: title, label: Title, widget: string }
     - { name: body, label: Body, widget: markdown }
-    - { name: sidebar_position, label: Sidebar Position, widget: string }
+    - { name: sidebar_position, label: Sidebar Position, widget: number, value_type: int }
     - label: "Tags"
       name: "tags"
       widget: "list"
@@ -80,7 +80,7 @@ collections:
   fields:
     - { name: title, label: Title, widget: string }
     - { name: body, label: Body, widget: markdown }
-    - { name: sidebar_position, label: Sidebar Position, widget: string }
+    - { name: sidebar_position, label: Sidebar Position, widget: number, value_type: int }
     - label: "Tags"
       name: "tags"
       widget: "list"
@@ -95,7 +95,7 @@ collections:
   fields:
     - { name: title, label: Title, widget: string }
     - { name: body, label: Body, widget: markdown }
-    - { name: sidebar_position, label: Sidebar Position, widget: string }
+    - { name: sidebar_position, label: Sidebar Position, widget: number, value_type: int }
     - label: "Tags"
       name: "tags"
       widget: "list"
@@ -110,7 +110,7 @@ collections:
   fields:
     - { name: title, label: Title, widget: string }
     - { name: body, label: Body, widget: markdown }
-    - { name: sidebar_position, label: Sidebar Position, widget: string }
+    - { name: sidebar_position, label: Sidebar Position, widget: number, value_type: int }
     - label: "Tags"
       name: "tags"
       widget: "list"
