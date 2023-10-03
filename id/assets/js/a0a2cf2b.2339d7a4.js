@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhelp_pintar_co=self.webpackChunkhelp_pintar_co||[]).push([[9994],{6507:t=>{t.exports=JSON.parse('{"label":"test","permalink":"/id/docs/tags/test","allTagsPath":"/id/docs/tags","count":1,"items":[{"id":"faq/2023-10-03-test-faq","title":"test faq","description":"testttt","permalink":"/id/docs/faq/2023-10-03-test-faq"}]}')}}]);
