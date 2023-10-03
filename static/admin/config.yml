@@ -15,11 +15,10 @@ collections:
   extension: md
   widget: "list"
   create: true
-  slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+  slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
   fields:
     - { name: title, label: Title, widget: string }
     - { name: body, label: Body, widget: markdown }
-    - { name: slug, label: Slug, widget: string }
     - label: "Tags"
       name: "tags"
       widget: "list"
@@ -38,11 +37,10 @@ collections:
   extension: md
   widget: "list"
   create: true
-  slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+  slug: "{{slug}}"
   fields:
     - { name: title, label: Title, widget: string }
     - { name: body, label: Body, widget: markdown }
-    - { name: slug, label: Slug, widget: string }
     - { name: sidebar_position, label: Sidebar Position, widget: string }
     - label: "Tags"
       name: "tags"
@@ -54,11 +52,10 @@ collections:
   extension: md
   widget: "list"
   create: true
-  slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+  slug: "{{slug}}"
   fields:
     - { name: title, label: Title, widget: string }
     - { name: body, label: Body, widget: markdown }
-    - { name: slug, label: Slug, widget: string }
     - { name: sidebar_position, label: Sidebar Position, widget: string }
     - label: "Tags"
       name: "tags"
@@ -85,11 +82,10 @@ collections:
   extension: md
   widget: "list"
   create: true
-  slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+  slug: "{{slug}}"
   fields:
     - { name: title, label: Title, widget: string }
     - { name: body, label: Body, widget: markdown }
-    - { name: slug, label: Slug, widget: string }
     - { name: sidebar_position, label: Sidebar Position, widget: string }
     - label: "Tags"
       name: "tags"
@@ -101,11 +97,10 @@ collections:
   extension: md
   widget: "list"
   create: true
-  slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+  slug: "{{slug}}"
   fields:
     - { name: title, label: Title, widget: string }
     - { name: body, label: Body, widget: markdown }
-    - { name: slug, label: Slug, widget: string }
     - { name: sidebar_position, label: Sidebar Position, widget: string }
     - label: "Tags"
       name: "tags"
