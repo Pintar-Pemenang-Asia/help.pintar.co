@@ -14,4 +14,6 @@ Anda bisa menghubungi tim kami melalui channel berikut
 
 
 
-![this is image](/img/img-20230829-wa0010.jpg "this is image title")
+asdasdadasdas
+
+![this is image](/img/screencapture-localhost-8000-2023-06-19-19_07_31.png "this is image title")
