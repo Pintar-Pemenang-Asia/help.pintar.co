@@ -7,6 +7,15 @@ backend:
 media_folder: "static/img" # Media files will be stored in the repo under static/images/uploads
 public_folder: "/img/" # The src attribute for uploaded media will begin with /images/uploads
 
+backend:
+  commit_messages:
+    create: Create {{collection}} “{{slug}}”
+    update: Update {{collection}} “{{slug}}”
+    delete: Delete {{collection}} “{{slug}}”
+    uploadMedia: Upload “{{path}} [skip ci]”
+    deleteMedia: Delete “{{path}}”
+    openAuthoring: '{{message}}'
+
 collections:
 - name: blog
   label: "blog"
