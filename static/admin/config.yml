@@ -23,7 +23,6 @@ collections:
 - name: blog
   label: "blog"
   folder: "contents/blog"
-  identifier_field: title
   extension: md
   widget: "list"
   create: true
@@ -38,7 +37,7 @@ collections:
       label: Body
       widget: markdown
       i18n: true
-    - name: date
+    - name: datetime
       label: Publish Date
       widget: date
       format: YYYY-MM-DDTHH:mm:ssZ
