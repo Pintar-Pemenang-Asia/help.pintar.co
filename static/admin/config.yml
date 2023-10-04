@@ -23,6 +23,7 @@ collections:
 - name: blog
   label: "blog"
   folder: "contents/blog"
+  identifier_field: title
   extension: md
   widget: "list"
   create: true
