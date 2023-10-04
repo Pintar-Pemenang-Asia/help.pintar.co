@@ -1,5 +1,6 @@
 ---
 title: How to Add Content
+date: 2023-10-04T17:33:59+07:00
 tags:
   - internal
 authors:
