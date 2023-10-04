@@ -30,9 +30,18 @@ collections:
   i18n: true
   slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
   fields:
-    - { name: title, label: Title, widget: string, i18n: true }
-    - { name: body, label: Body, widget: markdown }
-    - { label: "Tags", name: "tags", widget: "list" }
+    - name: title
+      label: Title
+      widget: string
+      i18n: true
+    - name: body
+      label: Body
+      widget: markdown
+      i18n: true
+    - label: "Tags"
+      name: "tags"
+      widget: "list"
+      i18n: duplicate
     - label: "Authors"
       name: "authors" 
       widget: "list"
