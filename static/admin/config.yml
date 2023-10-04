@@ -36,7 +36,6 @@ collections:
     - label: "Authors"
       name: "authors" 
       widget: "list"
-      i18n: duplicate
       fields:
         - { name: name, label: Name, widget: string }
         - { name: title, label: Title, widget: string } 
