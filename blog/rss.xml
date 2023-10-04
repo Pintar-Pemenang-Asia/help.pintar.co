@@ -4,7 +4,7 @@
         <title>Pintar Help Blog</title>
         <link>https://help.pintar.co/blog</link>
         <description>Pintar Help Blog</description>
-        <lastBuildDate>Wed, 04 Oct 2023 07:41:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Oct 2023 07:44:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -12,10 +12,27 @@
             <title><![CDATA[How to Add Content]]></title>
             <link>https://help.pintar.co/blog/how-to-add-content</link>
             <guid>https://help.pintar.co/blog/how-to-add-content</guid>
-            <pubDate>Wed, 04 Oct 2023 07:41:01 GMT</pubDate>
+            <pubDate>Wed, 04 Oct 2023 07:44:37 GMT</pubDate>
             <description><![CDATA[1. Create a GitHub Account]]></description>
             <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="1-create-a-github-account">1. Create a GitHub Account<a href="#1-create-a-github-account" class="hash-link" aria-label="Direct link to 1. Create a GitHub Account" title="Direct link to 1. Create a GitHub Account">​</a></h2><ol><li>Link <a href="https://github.com/signup" target="_blank" rel="noopener noreferrer">https://github.com/signup</a></li><li>Signup using @pintar.co email and set username github with format <strong>yourname-pintar</strong></li><li>Please Send a Message to DevOps Yusran or Yadi for an Invitation to our organization <a href="https://github.com/Pintar-Pemenang-Asia" target="_blank" rel="noopener noreferrer">https://github.com/Pintar-Pemenang-Asia</a></li></ol><h2 class="anchor anchorWithStickyNavbar_LWe7" id="2-access-content-manager-documentation">2. Access Content Manager Documentation<a href="#2-access-content-manager-documentation" class="hash-link" aria-label="Direct link to 2. Access Content Manager Documentation" title="Direct link to 2. Access Content Manager Documentation">​</a></h2><p>After you have access to our organization, you can edit content documentation from our admin panel.</p><ol><li><p>Content Manager URL: <a href="https://help-pintar.netlify.app/admin/" target="_blank" rel="noopener noreferrer">https://help-pintar.netlify.app/admin/</a></p></li><li><p>Login with GitHub Account</p></li><li><p>Done, now you can add documentation based on the category</p></li><li><p>Detail Form</p><ul><li>Title = Title of The Documentation</li><li>Body</li><li>Sidebar Position = You can insert a number, and check the order in the preview website</li><li>Tags = You can add many tags in a single document, if you have multiple tags, separate them with comma, for example: <strong>learner, instructor</strong></li></ul></li><li><p><strong>Save using Publish =&gt; Publish Now</strong></p></li></ol><h2 class="anchor anchorWithStickyNavbar_LWe7" id="3-preview-site">3. Preview Site<a href="#3-preview-site" class="hash-link" aria-label="Direct link to 3. Preview Site" title="Direct link to 3. Preview Site">​</a></h2><p>You can access it from this link <a href="https://help.stg.pintar.co/" target="_blank" rel="noopener noreferrer">https://help.stg.pintar.co/</a></p><p>After we on production, the link and data will be moved to <a href="https://help.pintar.co/" target="_blank" rel="noopener noreferrer">https://help.pintar.co/</a><a href="https://help.stg.pintar.co/" target="_blank" rel="noopener noreferrer"></a></p>]]></content:encoded>
             <category>internal</category>
+        </item>
+        <item>
+            <title><![CDATA[test i18n]]></title>
+            <link>https://help.pintar.co/blog/en/test-i18n</link>
+            <guid>https://help.pintar.co/blog/en/test-i18n</guid>
+            <pubDate>Wed, 04 Oct 2023 07:44:37 GMT</pubDate>
+            <description><![CDATA[this is test]]></description>
+            <content:encoded><![CDATA[<p>this is test</p>]]></content:encoded>
+            <category>blog</category>
+        </item>
+        <item>
+            <title><![CDATA[coba i18n]]></title>
+            <link>https://help.pintar.co/blog/id/test-i18n</link>
+            <guid>https://help.pintar.co/blog/id/test-i18n</guid>
+            <pubDate>Wed, 04 Oct 2023 07:44:37 GMT</pubDate>
+            <description><![CDATA[ini adalah percobaan]]></description>
+            <content:encoded><![CDATA[<p>ini adalah percobaan</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
