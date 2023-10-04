@@ -35,7 +35,7 @@ jobs:
 
           echo "Copy Docs Files"
           rm -rf docs/*
-          cp -r i18n/en/docusaurus-plugin-content-docs/* docs
+          cp -r i18n/en/docusaurus-plugin-content-docs/current/* docs
           rm -rf ./docs/current.json
 
           rm -rf i18n/en/
