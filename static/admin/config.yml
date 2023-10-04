@@ -49,7 +49,6 @@ collections:
       i18n: true
     - label: "Authors"
       name: "authors" 
-      widget: "list"
       i18n: true
       widget: "select"
       options: ["juniyadi", "yusran"]
