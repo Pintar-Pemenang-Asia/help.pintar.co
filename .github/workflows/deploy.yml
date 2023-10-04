@@ -38,6 +38,8 @@ jobs:
           cp -r i18n/en/docusaurus-plugin-content-docs/* docs
           rm -rf ./docs/current.json
 
+          rm -rf i18n/en/
+
       - name: Build website
         run: npm run build
 
