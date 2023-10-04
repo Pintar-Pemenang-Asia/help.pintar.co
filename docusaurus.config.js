@@ -30,6 +30,12 @@ const config = {
   i18n: {
     defaultLocale: 'en',
     locales: ['en', 'id'],
+    localeConfigs: {
+      id: {
+        label: 'Bahasa Indonesia',
+        htmlLang: 'id-ID',
+      }
+    }
   },
 
   presets: [
@@ -103,6 +109,10 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'right'},
           {
+            type: 'localeDropdown',
+            position: 'right',
+          },
+          {
             href: 'https://github.com/Pintar-Pemenang-Asia/help.pintar.co',
             label: 'GitHub',
             position: 'right',
@@ -116,11 +126,11 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial Degree',
+                label: 'Degree',
                 to: '/docs/degrees/introduction',
               },
               {
-                label: 'Tutorial Enterprise',
+                label: 'Enterprise',
                 to: '/docs/enterprise/introduction',
               },
               {

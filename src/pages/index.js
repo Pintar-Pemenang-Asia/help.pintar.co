@@ -5,6 +5,8 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
+import Translate, {translate} from '@docusaurus/Translate';
+
 import styles from './index.module.css';
 
 function HomepageHeader() {
@@ -18,7 +20,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Mulai
+            <Translate>Start</Translate>
           </Link>
         </div>
       </div>
