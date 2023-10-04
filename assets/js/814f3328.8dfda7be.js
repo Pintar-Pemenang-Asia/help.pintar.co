@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhelp_pintar_co=self.webpackChunkhelp_pintar_co||[]).push([[535],{5641:t=>{t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"How to Add Content","permalink":"/blog/how-to-add-content"},{"title":"test i18n","permalink":"/blog/en/test-i18n"},{"title":"coba i18n","permalink":"/blog/id/test-i18n"}]}')}}]);
