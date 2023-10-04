@@ -31,7 +31,9 @@ jobs:
         run: |
           echo "Copy Blog Translation"
           rm -rf blog/*
-          cp -r i18n/en/docusaurus-plugin-content-blog/*.md blog
+          cp -r contents/blog/en/*.md blog
+          cp -r contents/blog/en/*.md i18n/en/docusaurus-plugin-content-blog
+          cp -r contents/blog/id/*.md i18n/id/docusaurus-plugin-content-blog
 
           echo "Copy Docs Files"
           rm -rf docs/*
