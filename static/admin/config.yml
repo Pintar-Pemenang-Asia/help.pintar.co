@@ -37,9 +37,9 @@ collections:
       label: Body
       widget: markdown
       i18n: true
-    - name: datetime
+    - name: date
       label: Publish Date
-      widget: date
+      widget: datetime
       format: YYYY-MM-DDTHH:mm:ssZ
       i18n: true
     - label: "Tags"
