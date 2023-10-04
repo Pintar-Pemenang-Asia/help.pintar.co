@@ -31,17 +31,17 @@ collections:
   slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
   fields:
     - { name: title, label: Title, widget: string, i18n: true }
-    - { name: body, label: Body, widget: markdown, i18n: duplicate }
-    - { label: "Tags", name: "tags", widget: "list", i18n: duplicate }
+    - { name: body, label: Body, widget: markdown }
+    - { label: "Tags", name: "tags", widget: "list" }
     - label: "Authors"
       name: "authors" 
       widget: "list"
       i18n: duplicate
       fields:
-        - { name: name, label: Name, widget: string, i18n: duplicate }
-        - { name: title, label: Title, widget: string, i18n: duplicate } 
-        - { name: url, label: URL, widget: string, i18n: duplicate } 
-        - { name: image_url, label: ImageURL, widget: string, i18n: duplicate }
+        - { name: name, label: Name, widget: string }
+        - { name: title, label: Title, widget: string } 
+        - { name: url, label: URL, widget: string } 
+        - { name: image_url, label: ImageURL, widget: string }
 - name: degrees
   label: "degrees"
   folder: "docs/degrees"
@@ -83,9 +83,9 @@ collections:
   slug: "{{slug}}"
   fields:
     - { name: title, label: Title, widget: string, i18n: true }
-    - { name: body, label: Body, widget: markdown, i18n: duplicate }
-    - { name: sidebar_position, label: Sidebar Position, widget: number, value_type: int, i18n: duplicate }
-    - { label: "Tags", name: "tags", widget: "list", i18n: duplicate }
+    - { name: body, label: Body, widget: markdown }
+    - { name: sidebar_position, label: Sidebar Position, widget: number, value_type: int }
+    - { label: "Tags", name: "tags", widget: "list" }
 - name: skills
   label: "skills"
   folder: "docs/skills"
