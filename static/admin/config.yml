@@ -22,7 +22,7 @@ i18n:
 collections:
 - name: blog
   label: "blog"
-  folder: blog
+  folder: i18n/en/docusaurus-plugin-content-blog
   identifier_field: title
   extension: md
   widget: "list"

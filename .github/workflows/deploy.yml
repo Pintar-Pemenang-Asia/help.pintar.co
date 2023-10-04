@@ -7,6 +7,9 @@ on:
     # Review gh actions docs if you want to further define triggers, paths, etc
     # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#on
 
+env:
+  APP_DOMAIN: help.stg.pintar.co
+
 jobs:
   deploy:
     name: Deploy to GitHub Pages
@@ -24,8 +27,14 @@ jobs:
       - name: Delete Admin Build
         run: rm -rf static/admin
 
-      - name: Copy CNAME file
-        run: cp CNAME static/CNAME
+      - name: Copy English Translation
+        run: |
+          echo "Copy Blog Translation"
+          cp -r i18n/en/docusaurus-plugin-content-blog/*.md ./blog/
+
+          echo "Copy Docs Files"
+          cp -r i18n/en/docusaurus-plugin-content-docs/* ./docs/
+          rm -rf ./docs/current.json
 
       - name: Build website
         run: npm run build
@@ -45,3 +54,4 @@ jobs:
           # You can swap them out with your own user credentials.
           user_name: github-actions[bot]
           user_email: 41898282+github-actions[bot]@users.noreply.github.com
+          cname: ${{ env.APP_DOMAIN }}
