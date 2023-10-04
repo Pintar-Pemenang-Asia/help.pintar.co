@@ -38,6 +38,11 @@ collections:
       label: Body
       widget: markdown
       i18n: true
+    - name: date
+      label: Publish Date
+      widget: date
+      format: YYYY-MM-DDTHH:mm:ssZ
+      i18n: true
     - label: "Tags"
       name: "tags"
       widget: "list"
@@ -46,11 +51,8 @@ collections:
       name: "authors" 
       widget: "list"
       i18n: true
-      fields:
-        - { name: name, label: Name, widget: string, i18n: true }
-        - { name: title, label: Title, widget: string, i18n: true } 
-        - { name: url, label: URL, widget: string, i18n: true } 
-        - { name: image_url, label: ImageURL, widget: string, i18n: true }
+      widget: "select"
+      options: ["juniyadi", "yusran"]
 - name: degrees
   label: "degrees"
   folder: "docs/degrees"
