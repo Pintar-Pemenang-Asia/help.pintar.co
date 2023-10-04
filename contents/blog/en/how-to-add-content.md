@@ -3,17 +3,13 @@ title: How to Add Content
 date: 2023-10-04T17:33:59+07:00
 tags:
   - internal
-authors:
-  - name: Juni Yadi
-    title: DevOps Engineer
-    url: https://github.com/juniyadi-pintar
-    image_url: https://avatars.githubusercontent.com/u/117881249?v=4
+authors: juniyadi
 ---
 ## 1. Create a GitHub Account
 
 1. Link <https://github.com/signup>
 2. Signup using @pintar.co email and set username github with format **yourname-pintar**
-3. Please Send a Message to DevOps Yusran or Yadi for an Invitation to our organization <https://github.com/Pintar-Pemenang-Asia>
+3. Please Send a Message to devops@pintar.co, and attach your github username and your team name, you will be invited to our organization <https://github.com/Pintar-Pemenang-Asia>
 
 ## 2. Access Content Manager Documentation
 
