@@ -30,9 +30,11 @@ jobs:
       - name: Copy English Translation
         run: |
           echo "Copy Blog Translation"
+          rm -rf blog/*
           cp -r i18n/en/docusaurus-plugin-content-blog/*.md blog
 
           echo "Copy Docs Files"
+          rm -rf docs/*
           cp -r i18n/en/docusaurus-plugin-content-docs/* docs
           rm -rf ./docs/current.json
 
