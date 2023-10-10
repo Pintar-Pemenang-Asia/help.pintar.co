@@ -27,7 +27,8 @@ collections:
   extension: md
   widget: "list"
   create: true
-  i18n: true
+  i18n:
+    structure: multiple_files
   slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
   fields:
     - name: title
@@ -52,6 +53,7 @@ collections:
       i18n: true
       widget: "select"
       options: ["juniyadi", "yusran"]
+
 - name: degrees
   label: "degrees"
   folder: "docs/degrees"
