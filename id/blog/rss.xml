@@ -4,7 +4,7 @@
         <title>Pintar Help Blog</title>
         <link>https://help.pintar.co/id/blog</link>
         <description>Pintar Help Blog</description>
-        <lastBuildDate>Thu, 05 Oct 2023 02:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2023 02:29:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>id</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[coba i18n]]></title>
             <link>https://help.pintar.co/id/blog/test-i18n</link>
             <guid>https://help.pintar.co/id/blog/test-i18n</guid>
-            <pubDate>Thu, 05 Oct 2023 02:19:49 GMT</pubDate>
+            <pubDate>Tue, 10 Oct 2023 02:29:45 GMT</pubDate>
             <description><![CDATA[ini adalah percobaan]]></description>
             <content:encoded><![CDATA[<p>ini adalah percobaan</p>]]></content:encoded>
             <category>blog</category>
