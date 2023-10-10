@@ -20,111 +20,109 @@ i18n:
   default_locale: en
 
 collections:
-- name: blog
-  label: "blog"
-  folder: "contents/blog"
-  identifier_field: title
-  extension: md
-  widget: "list"
-  create: true
-  i18n:
-    structure: multiple_files
-  slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-  fields:
-    - name: title
-      label: Title
-      widget: string
-      i18n: true
-    - name: body
-      label: Body
-      widget: markdown
-      i18n: true
-    - name: date
-      label: Publish Date
-      widget: datetime
-      format: YYYY-MM-DDTHH:mm:ssZ
-      i18n: true
-    - label: "Tags"
-      name: "tags"
-      widget: "list"
-      i18n: true
-    - label: "Authors"
-      name: "authors" 
-      i18n: true
-      widget: "select"
-      options: ["juniyadi", "yusran"]
+  - name: blog
+    label: "blog"
+    folder: "contents/blog"
+    identifier_field: title
+    extension: md
+    widget: "list"
+    create: true
+    i18n: true
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields:
+      - name: title
+        label: Title
+        widget: string
+        i18n: true
+      - name: body
+        label: Body
+        widget: markdown
+        i18n: true
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        i18n: true
+      - label: "Authors"
+        name: "authors" 
+        i18n: true
+        widget: "select"
+        options: ["juniyadi", "yusran"]
 
-- name: degrees
-  label: "degrees"
-  folder: "docs/degrees"
-  identifier_field: title
-  extension: md
-  widget: "list"
-  create: true
-  slug: "{{slug}}"
-  fields:
-    - { name: title, label: Title, widget: string }
-    - { name: body, label: Body, widget: markdown }
-    - { name: sidebar_position, label: Sidebar Position, widget: number, value_type: int }
-    - label: "Tags"
-      name: "tags"
-      widget: "list"
-- name: enterprise
-  label: "enterprise"
-  folder: "docs/enterprise"
-  identifier_field: title
-  extension: md
-  widget: "list"
-  create: true
-  slug: "{{slug}}"
-  fields:
-    - { name: title, label: Title, widget: string }
-    - { name: body, label: Body, widget: markdown }
-    - { name: sidebar_position, label: Sidebar Position, widget: number, value_type: int }
-    - label: "Tags"
-      name: "tags"
-      widget: "list"
-- name: faq
-  label: "faq"
-  folder: "docs/faq"
-  identifier_field: title
-  extension: md
-  widget: "list"
-  create: true
-  i18n: true
-  slug: "{{slug}}"
-  fields:
-    - { name: title, label: Title, widget: string, i18n: true }
-    - { name: body, label: Body, widget: markdown }
-    - { name: sidebar_position, label: Sidebar Position, widget: number, value_type: int }
-    - { label: "Tags", name: "tags", widget: "list" }
-- name: skills
-  label: "skills"
-  folder: "docs/skills"
-  identifier_field: title
-  extension: md
-  widget: "list"
-  create: true
-  slug: "{{slug}}"
-  fields:
-    - { name: title, label: Title, widget: string }
-    - { name: body, label: Body, widget: markdown }
-    - { name: sidebar_position, label: Sidebar Position, widget: number, value_type: int }
-    - label: "Tags"
-      name: "tags"
-      widget: "list"
-- name: prakerja
-  label: "prakerja"
-  folder: "docs/prakerja"
-  identifier_field: title
-  extension: md
-  widget: "list"
-  create: true
-  slug: "{{slug}}"
-  fields:
-    - { name: title, label: Title, widget: string }
-    - { name: body, label: Body, widget: markdown }
-    - { name: sidebar_position, label: Sidebar Position, widget: number, value_type: int }
-    - label: "Tags"
-      name: "tags"
-      widget: "list"
+  - name: degrees
+    label: "degrees"
+    folder: "docs/degrees"
+    identifier_field: title
+    extension: md
+    widget: "list"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { name: title, label: Title, widget: string }
+      - { name: body, label: Body, widget: markdown }
+      - { name: sidebar_position, label: Sidebar Position, widget: number, value_type: int }
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+
+  - name: enterprise
+    label: "enterprise"
+    folder: "docs/enterprise"
+    identifier_field: title
+    extension: md
+    widget: "list"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { name: title, label: Title, widget: string }
+      - { name: body, label: Body, widget: markdown }
+      - { name: sidebar_position, label: Sidebar Position, widget: number, value_type: int }
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+
+  - name: faq
+    label: "faq"
+    folder: "docs/faq"
+    identifier_field: title
+    extension: md
+    widget: "list"
+    create: true
+    i18n: true
+    slug: "{{slug}}"
+    fields:
+      - { name: title, label: Title, widget: string, i18n: true }
+      - { name: body, label: Body, widget: markdown }
+      - { name: sidebar_position, label: Sidebar Position, widget: number, value_type: int }
+      - { label: "Tags", name: "tags", widget: "list" }
+
+  - name: skills
+    label: "skills"
+    folder: "docs/skills"
+    identifier_field: title
+    extension: md
+    widget: "list"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { name: title, label: Title, widget: string }
+      - { name: body, label: Body, widget: markdown }
+      - { name: sidebar_position, label: Sidebar Position, widget: number, value_type: int }
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+
+  - name: prakerja
+    label: "prakerja"
+    folder: "docs/prakerja"
+    identifier_field: title
+    extension: md
+    widget: "list"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { name: title, label: Title, widget: string }
+      - { name: body, label: Body, widget: markdown }
+      - { name: sidebar_position, label: Sidebar Position, widget: number, value_type: int }
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
