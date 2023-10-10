@@ -1,10 +1,17 @@
 #!/bin/bash
 
+i18n="i18n"
+blog="blog"
+
+##### Blog Posts #####
+
+echo "Cleanup Blog Posts"
+
+rm -rf "$blog/*.md"
+
 echo "Copy Files Translations English to Destination Folder"
 
-i18n="i18n"
 BLOG_PATH_DESTINATION="docusaurus-plugin-content-blog"
-
 EN_BLOG_DESTINATION="$i18n/en/$BLOG_PATH_DESTINATION"
 ID_BLOG_DESTINATION="$i18n/id/$BLOG_PATH_DESTINATION"
 
@@ -18,6 +25,7 @@ while read line; do
 
     FILENAME=$(basename $line)
     cp $line "$EN_BLOG_DESTINATION/${FILENAME%.en.md}.md"
+    cp $line "blog/${FILENAME%.en.md}.md"
 
 done < list-en.txt
 

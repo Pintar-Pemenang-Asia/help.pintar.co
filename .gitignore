@@ -22,3 +22,7 @@ yarn-error.log*
 # Ignore Files
 list-en.txt
 list-id.txt
+
+blog/*.md
+i18n/en/*/*.md
+i18n/id/*/*.md
