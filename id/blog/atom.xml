@@ -12,8 +12,12 @@
         <id>https://help.pintar.co/id/blog/test</id>
         <link href="https://help.pintar.co/id/blog/test"/>
         <updated>2023-10-10T02:28:34.000Z</updated>
-        <summary type="html"><![CDATA[test]]></summary>
-        <content type="html"><![CDATA[<p>test</p>]]></content>
+        <summary type="html"><![CDATA[test indonesia]]></summary>
+        <content type="html"><![CDATA[<p>test indonesia</p>]]></content>
+        <author>
+            <name>Juni Yadi</name>
+            <uri>https://github.com/juniyadi-pintar</uri>
+        </author>
         <category label="test" term="test"/>
     </entry>
 </feed>
