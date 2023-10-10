@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhelp_pintar_co=self.webpackChunkhelp_pintar_co||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"test ind","permalink":"/blog/test-eng"},{"title":"Bagaimana Cara Menambahkan Konten","permalink":"/blog/how-to-add-content"}]}')}}]);
