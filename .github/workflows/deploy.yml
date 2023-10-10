@@ -27,20 +27,25 @@ jobs:
       - name: Delete Admin Build
         run: rm -rf static/admin
 
-      - name: Copy English Translation
-        run: |
-          echo "Copy Blog Translation"
-          rm -rf blog/*.md
-          cp -r contents/blog/en/*.md blog
-          cp -r contents/blog/en/*.md i18n/en/docusaurus-plugin-content-blog
-          cp -r contents/blog/id/*.md i18n/id/docusaurus-plugin-content-blog
+      - name: Copy Translation Files
+        run: bash generate.sh
 
-          echo "Copy Docs Files"
-          rm -rf docs/*
-          cp -r i18n/en/docusaurus-plugin-content-docs/current/* docs
-          rm -rf ./docs/current.json
+      # - name: Copy English Translation
+      #   run: |
+      #     echo "Copy Blog Translation"
+      #     rm -rf blog/*.md
+      #     cp -r contents/blog/en/*.md blog
+      #     cp -r contents/blog/en/*.md i18n/en/docusaurus-plugin-content-blog
+      #     cp -r contents/blog/id/*.md i18n/id/docusaurus-plugin-content-blog
+      #     find contents/blog/ -type f -name '*.en.md' -exec cp {} i18n/en/docusaurus-plugin-content-blog \;
+      #     find contents/blog -type f -name '*.en.md' > list-en.txt
 
-          rm -rf i18n/en/
+      #     echo "Copy Docs Files"
+      #     rm -rf docs/*
+      #     cp -r i18n/en/docusaurus-plugin-content-docs/current/* docs
+      #     rm -rf ./docs/current.json
+
+      #     rm -rf i18n/en/
 
       - name: Build website
         run: npm run build
