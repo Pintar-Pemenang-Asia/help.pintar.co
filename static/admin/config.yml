@@ -15,7 +15,7 @@ media_folder: "static/img" # Media files will be stored in the repo under static
 public_folder: "/img/" # The src attribute for uploaded media will begin with /images/uploads
 
 i18n:
-  structure: multiple_folders
+  structure: multiple_files
   locales: [en, id]
   default_locale: en
 
@@ -27,8 +27,6 @@ collections:
     extension: md
     widget: "list"
     create: true
-    i18n:
-      structure: multiple_files
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields:
       - name: title
@@ -51,39 +49,34 @@ collections:
 
   - name: degrees
     label: "degrees"
-    folder: "docs/degrees"
+    folder: "contents/docs/degrees"
     identifier_field: title
     extension: md
     widget: "list"
     create: true
     slug: "{{slug}}"
     fields:
-      - { name: title, label: Title, widget: string }
-      - { name: body, label: Body, widget: markdown }
-      - { name: sidebar_position, label: Sidebar Position, widget: number, value_type: int }
+      - name: title
+        label: Title
+        widget: string
+        i18n: true
+      - name: body
+        label: Body
+        widget: markdown
+        i18n: true
+      - label: "Sidebar Position"
+        name: "sidebar_position"
+        widget: "number"
+        value_type: int
+        i18n: true
       - label: "Tags"
         name: "tags"
         widget: "list"
+        i18n: true
 
   - name: enterprise
     label: "enterprise"
-    folder: "docs/enterprise"
-    identifier_field: title
-    extension: md
-    widget: "list"
-    create: true
-    slug: "{{slug}}"
-    fields:
-      - { name: title, label: Title, widget: string }
-      - { name: body, label: Body, widget: markdown }
-      - { name: sidebar_position, label: Sidebar Position, widget: number, value_type: int }
-      - label: "Tags"
-        name: "tags"
-        widget: "list"
-
-  - name: faq
-    label: "faq"
-    folder: "docs/faq"
+    folder: "contents/docs/enterprise"
     identifier_field: title
     extension: md
     widget: "list"
@@ -91,10 +84,51 @@ collections:
     i18n: true
     slug: "{{slug}}"
     fields:
-      - { name: title, label: Title, widget: string, i18n: true }
-      - { name: body, label: Body, widget: markdown }
-      - { name: sidebar_position, label: Sidebar Position, widget: number, value_type: int }
-      - { label: "Tags", name: "tags", widget: "list" }
+      - name: title
+        label: Title
+        widget: string
+        i18n: true
+      - name: body
+        label: Body
+        widget: markdown
+        i18n: true
+      - label: "Sidebar Position"
+        name: "sidebar_position"
+        widget: "number"
+        value_type: int
+        i18n: true
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        i18n: true
+
+  - name: faq
+    label: "faq"
+    folder: "contents/docs/faq"
+    identifier_field: title
+    extension: md
+    widget: "list"
+    create: true
+    i18n: true
+    slug: "{{slug}}"
+    fields:
+      - name: title
+        label: Title
+        widget: string
+        i18n: true
+      - name: body
+        label: Body
+        widget: markdown
+        i18n: true
+      - label: "Sidebar Position"
+        name: "sidebar_position"
+        widget: "number"
+        value_type: int
+        i18n: true
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        i18n: true
 
   - name: skills
     label: "skills"
@@ -103,14 +137,26 @@ collections:
     extension: md
     widget: "list"
     create: true
+    i18n: true
     slug: "{{slug}}"
     fields:
-      - { name: title, label: Title, widget: string }
-      - { name: body, label: Body, widget: markdown }
-      - { name: sidebar_position, label: Sidebar Position, widget: number, value_type: int }
+      - name: title
+        label: Title
+        widget: string
+        i18n: true
+      - name: body
+        label: Body
+        widget: markdown
+        i18n: true
+      - label: "Sidebar Position"
+        name: "sidebar_position"
+        widget: "number"
+        value_type: int
+        i18n: true
       - label: "Tags"
         name: "tags"
         widget: "list"
+        i18n: true
 
   - name: prakerja
     label: "prakerja"
@@ -119,11 +165,23 @@ collections:
     extension: md
     widget: "list"
     create: true
+    i18n: true
     slug: "{{slug}}"
     fields:
-      - { name: title, label: Title, widget: string }
-      - { name: body, label: Body, widget: markdown }
-      - { name: sidebar_position, label: Sidebar Position, widget: number, value_type: int }
+      - name: title
+        label: Title
+        widget: string
+        i18n: true
+      - name: body
+        label: Body
+        widget: markdown
+        i18n: true
+      - label: "Sidebar Position"
+        name: "sidebar_position"
+        widget: "number"
+        value_type: int
+        i18n: true
       - label: "Tags"
         name: "tags"
         widget: "list"
+        i18n: true

@@ -20,9 +20,11 @@ yarn-debug.log*
 yarn-error.log*
 
 # Ignore Files
-list-en.txt
-list-id.txt
+list-*.txt
+list-*.txt
 
 blog/*.md
 i18n/en/*/*.md
 i18n/id/*/*.md
+i18n/en/*/current
+i18n/id/*/current

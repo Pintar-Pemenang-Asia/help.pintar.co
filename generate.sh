@@ -1,5 +1,63 @@
 #!/bin/bash
 
+function migrateFiles() {
+    # en or id
+    LANG=$1
+    # directory in contents
+    SOURCE=$2
+    # destination folder in i18n
+    DESTINATION=$3
+    # Source Folder Base
+    SOURCE_BASE=$(basename $SOURCE)
+    # Destination Folder Base
+    DESTINATION_BASE=$DESTINATION
+
+    find "contents/$SOURCE" -maxdepth 1 -type f -name "*.$LANG.md" > "list-$SOURCE_BASE-$LANG.txt"
+    COUNT=$(awk 'END {print NR}' "list-$SOURCE_BASE-$LANG.txt")
+
+    if [[ $COUNT -gt 0 ]]; then
+
+        # Check if destination folder have name with prefix "docs"
+        if [[ $DESTINATION_BASE == *"docs"* ]]; then
+            SUB_DOCS=false
+
+            # if prefix is degree, enterprise, faq, prakerja, skills
+            if [[ $DESTINATION_BASE == *"degrees"* ]] || [[ $DESTINATION_BASE == *"enterprise"* ]] || [[ $DESTINATION_BASE == *"faq"* ]] || [[ $DESTINATION_BASE == *"prakerja"* ]] || [[ $DESTINATION_BASE == *"skills"* ]]; then
+                DESTINATION_BASE="$DESTINATION/current/$SOURCE_BASE"
+                SUB_DOCS=true
+            else
+                DESTINATION_BASE="$DESTINATION/current"
+            fi
+
+            if [ ! -d "$DESTINATION_BASE" ]; then
+                mkdir -p "$DESTINATION_BASE"
+            fi
+
+            if [ ! -d "$SOURCE" ]; then
+                mkdir -p "$SOURCE"
+            fi
+
+            # Copy category.json
+            if [[ $SUB_DOCS == true ]]; then
+                cp "contents/$SOURCE/_category_.json" "$DESTINATION_BASE"
+                cp "contents/$SOURCE/_category_.json" "$SOURCE"
+            fi
+        fi
+
+        echo "Copy Files $SOURCE $LANG From contents/$SOURCE to $DESTINATION_BASE"
+
+        while read line; do
+
+            echo "Copy $line to $DESTINATION_BASE"
+
+            FILENAME=$(basename $line)
+            cp $line "$DESTINATION_BASE/${FILENAME%.$LANG.md}.md"
+            cp $line "$SOURCE/${FILENAME%.$LANG.md}.md"
+
+        done < "list-$SOURCE_BASE-$LANG.txt"
+    fi
+}
+
 i18n="i18n"
 blog="blog"
 
@@ -15,8 +73,9 @@ BLOG_PATH_DESTINATION="docusaurus-plugin-content-blog"
 EN_BLOG_DESTINATION="$i18n/en/$BLOG_PATH_DESTINATION"
 ID_BLOG_DESTINATION="$i18n/id/$BLOG_PATH_DESTINATION"
 
-find contents/blog -type f -name '*.en.md' > list-en.txt
-find contents/blog -type f -name '*.id.md' > list-id.txt
+DOCS_PATH_DESTINATION="docusaurus-plugin-content-docs"
+EN_DOCS_DESTINATION="$i18n/en/$DOCS_PATH_DESTINATION"
+ID_DOCS_DESTINATION="$i18n/id/$DOCS_PATH_DESTINATION"
 
 echo "Check Multiple Folder Blog Translations"
 
@@ -36,37 +95,24 @@ else
     echo "Folder Blog Indonesia Not Exist"
 fi
 
+# Copy Blog Eng
+migrateFiles en blog $EN_BLOG_DESTINATION
+migrateFiles id blog $ID_BLOG_DESTINATION
 
-# Count line in list-en.txt
-COUNT_EN=$(awk 'END {print NR}' list-en.txt)
+migrateFiles en docs $EN_DOCS_DESTINATION
+migrateFiles id docs $ID_DOCS_DESTINATION
 
+migrateFiles en docs/degrees $EN_DOCS_DESTINATION
+migrateFiles id docs/degrees $ID_DOCS_DESTINATION
 
-if [[ $COUNT_EN -gt 0 ]]; then
+migrateFiles en docs/enterprise $EN_DOCS_DESTINATION
+migrateFiles id docs/enterprise $ID_DOCS_DESTINATION
 
-    echo "Copy Files Blog English From contents/blog to $EN_BLOG_DESTINATION"
+migrateFiles en docs/faq $EN_DOCS_DESTINATION
+migrateFiles id docs/faq $ID_DOCS_DESTINATION
 
-    while read line; do
-        echo "Copy $line to $EN_BLOG_DESTINATION"
+migrateFiles en docs/prakerja $EN_DOCS_DESTINATION
+migrateFiles id docs/prakerja $ID_DOCS_DESTINATION
 
-        FILENAME=$(basename $line)
-        cp $line "$EN_BLOG_DESTINATION/${FILENAME%.en.md}.md"
-        cp $line "blog/${FILENAME%.en.md}.md"
-
-    done < list-en.txt
-fi
-
-# Count line in list-id.txt
-COUNT_ID=$(awk 'END {print NR}' list-id.txt)
-
-if [ $COUNT_ID -gt 0 ]; then
-
-    echo "Copy Files Blog Indonesia From contents/blog to $ID_BLOG_DESTINATION"
-
-    while read line; do
-        echo "Copy $line to $ID_BLOG_DESTINATION"
-
-        FILENAME=$(basename $line)
-        cp $line "$ID_BLOG_DESTINATION/${FILENAME%.id.md}.md"
-
-    done < list-id.txt
-fi
+migrateFiles en docs/skills $EN_DOCS_DESTINATION
+migrateFiles id docs/skills $ID_DOCS_DESTINATION
