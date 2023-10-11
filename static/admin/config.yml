@@ -27,6 +27,7 @@ collections:
     extension: md
     widget: "list"
     create: true
+    i18n: true
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields:
       - name: title
@@ -54,6 +55,7 @@ collections:
     extension: md
     widget: "list"
     create: true
+    i18n: true
     slug: "{{slug}}"
     fields:
       - name: title
