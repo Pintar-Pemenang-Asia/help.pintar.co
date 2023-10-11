@@ -24,7 +24,7 @@ list-*.txt
 list-*.txt
 
 blog/*.md
-docs/*.md
+docs/*
 i18n/en/*/*.md
 i18n/id/*/*.md
 i18n/en/*/current
