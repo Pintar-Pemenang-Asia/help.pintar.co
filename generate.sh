@@ -22,7 +22,7 @@ function migrateFiles() {
             SUB_DOCS=false
 
             # if prefix is degree, enterprise, faq, prakerja, skills
-            if [[ $DESTINATION_BASE == *"degrees"* ]] || [[ $DESTINATION_BASE == *"enterprise"* ]] || [[ $DESTINATION_BASE == *"faq"* ]] || [[ $DESTINATION_BASE == *"prakerja"* ]] || [[ $DESTINATION_BASE == *"skills"* ]]; then
+            if [[ $SOURCE_BASE == *"degrees"* ]] || [[ $SOURCE_BASE == *"enterprise"* ]] || [[ $SOURCE_BASE == *"faq"* ]] || [[ $SOURCE_BASE == *"prakerja"* ]] || [[ $SOURCE_BASE == *"skills"* ]]; then
                 DESTINATION_BASE="$DESTINATION/current/$SOURCE_BASE"
                 SUB_DOCS=true
             else
