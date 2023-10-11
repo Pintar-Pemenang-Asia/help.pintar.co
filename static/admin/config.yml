@@ -132,7 +132,7 @@ collections:
 
   - name: skills
     label: "skills"
-    folder: "docs/skills"
+    folder: "contents/docs/skills"
     identifier_field: title
     extension: md
     widget: "list"
@@ -160,7 +160,7 @@ collections:
 
   - name: prakerja
     label: "prakerja"
-    folder: "docs/prakerja"
+    folder: "contents/docs/prakerja"
     identifier_field: title
     extension: md
     widget: "list"
