@@ -15,21 +15,16 @@ function cleanup() {
     if [[ $DESTINATION == *"docs"* ]]; then
         SUB_DOCS=true
         DESTINATION="$DESTINATION/current/$SOURCE_BASE"
-    fi
 
-    if [ -d "$DESTINATION" ]; then
-        echo "Folder $DESTINATION/$LANG Exist, Cleanup Folder"
-
-        if [[ $DESTINATION == *"docs"* ]]; then
+        if [ -d "$DESTINATION" ]; then
+            echo "Folder $DESTINATION Exist, Cleanup Folder"
             rm -rf "$DESTINATION"
-        else
-            rm -rf "$DESTINATION/*"
         fi
-    fi
-
-    if [ "$SUB_DOCS" == true ]; then
+        
         echo "Folder $SOURCE Exist, Cleanup Folder"
         rm -rf "$SOURCE"
+    else
+        rm -rf "$DESTINATION/*"
     fi
 }
 
