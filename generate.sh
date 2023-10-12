@@ -85,6 +85,11 @@ function multiple_folders() {
         cp -r contents/$SOURCE/$LANG/*.md $DESTINATION
 
         if [[ $LANG ==  "en" ]]; then
+            if [ ! -d "$SOURCE" ]; then
+                echo "Folder $SOURCE Not Exist, Create Folder"
+                mkdir -p "$SOURCE"
+            fi
+
             cp -r contents/$SOURCE/$LANG/*.md $SOURCE
         fi
 
