@@ -118,21 +118,6 @@ ID_DOCS_DESTINATION="$i18n/id/$DOCS_PATH_DESTINATION"
 
 echo "Check Multiple Folder Blog Translations"
 
-if [ -d "contents/blog/en/" ]; then
-    echo "Folder content/blog/en/ Exist, Copy Files to $EN_BLOG_DESTINATION"
-    cp -r contents/blog/en/*.md $EN_BLOG_DESTINATION
-    cp -r contents/blog/en/*.md blog
-else
-    echo "Folder Blog English Not Exist"
-fi
-
-if [ -d "contents/blog/id/" ]; then
-    echo "Folder content/blog/id/ Exist, Copy Files to $EN_BLOG_DESTINATION"
-    cp -r contents/blog/id/*.md $EN_BLOG_DESTINATION
-else
-    echo "Folder Blog Indonesia Not Exist"
-fi
-
 # Copy Blog Eng
 multiple_folders en blog $EN_BLOG_DESTINATION
 multiple_folders id blog $ID_BLOG_DESTINATION
