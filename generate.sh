@@ -58,6 +58,45 @@ function migrateFiles() {
     fi
 }
 
+function multiple_folders() {
+    # en or id
+    LANG=$1
+    # directory in contents
+    SOURCE=$2
+    # destination folder in i18n
+    DESTINATION=$3
+    # Source Folder Base
+    SOURCE_BASE=$(basename $SOURCE)
+    # Sub Docs
+    SUB_DOCS=false
+
+    if [[ $DESTINATION == *"docs"* ]]; then
+        SUB_DOCS=true
+        DESTINATION="$DESTINATION/current/$SOURCE_BASE"
+    fi
+
+    if [ ! -d "$DESTINATION" ]; then
+        echo "Folder $DESTINATION Not Exist, Create Folder"
+        mkdir -p "$DESTINATION"
+    fi
+
+    if [ -d "contents/$SOURCE/$LANG" ]; then
+        echo "Folder content/$SOURCE/$LANG Exist, Copy Files to $DESTINATION"
+        cp -r contents/$SOURCE/$LANG/*.md $DESTINATION
+
+        if [[ $LANG ==  "en" ]]; then
+            cp -r contents/$SOURCE/$LANG/*.md $SOURCE
+        fi
+
+        if [[ $SUB_DOCS == true ]]; then
+            cp "contents/$SOURCE/_category_.json" "$DESTINATION"
+            cp "contents/$SOURCE/_category_.json" "$SOURCE"
+        fi
+    else
+        echo "Folder $SOURCE $LANG Not Exist"
+    fi
+}
+
 i18n="i18n"
 blog="blog"
 
@@ -90,29 +129,28 @@ fi
 if [ -d "contents/blog/id/" ]; then
     echo "Folder content/blog/id/ Exist, Copy Files to $EN_BLOG_DESTINATION"
     cp -r contents/blog/id/*.md $EN_BLOG_DESTINATION
-    cp -r contents/blog/id/*.md blog
 else
     echo "Folder Blog Indonesia Not Exist"
 fi
 
 # Copy Blog Eng
-migrateFiles en blog $EN_BLOG_DESTINATION
-migrateFiles id blog $ID_BLOG_DESTINATION
+multiple_folders en blog $EN_BLOG_DESTINATION
+multiple_folders id blog $ID_BLOG_DESTINATION
 
 migrateFiles en docs $EN_DOCS_DESTINATION
 migrateFiles id docs $ID_DOCS_DESTINATION
 
-migrateFiles en docs/degrees $EN_DOCS_DESTINATION
-migrateFiles id docs/degrees $ID_DOCS_DESTINATION
+multiple_folders en docs/degrees $EN_DOCS_DESTINATION
+multiple_folders id docs/degrees $ID_DOCS_DESTINATION
 
-migrateFiles en docs/enterprise $EN_DOCS_DESTINATION
-migrateFiles id docs/enterprise $ID_DOCS_DESTINATION
+multiple_folders en docs/enterprise $EN_DOCS_DESTINATION
+multiple_folders id docs/enterprise $ID_DOCS_DESTINATION
 
-migrateFiles en docs/faq $EN_DOCS_DESTINATION
-migrateFiles id docs/faq $ID_DOCS_DESTINATION
+multiple_folders en docs/faq $EN_DOCS_DESTINATION
+multiple_folders id docs/faq $ID_DOCS_DESTINATION
 
-migrateFiles en docs/prakerja $EN_DOCS_DESTINATION
-migrateFiles id docs/prakerja $ID_DOCS_DESTINATION
+multiple_folders en docs/prakerja $EN_DOCS_DESTINATION
+multiple_folders id docs/prakerja $ID_DOCS_DESTINATION
 
-migrateFiles en docs/skills $EN_DOCS_DESTINATION
-migrateFiles id docs/skills $ID_DOCS_DESTINATION
+multiple_folders en docs/skills $EN_DOCS_DESTINATION
+multiple_folders id docs/skills $ID_DOCS_DESTINATION
