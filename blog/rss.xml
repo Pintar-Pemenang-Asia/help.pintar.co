@@ -4,28 +4,10 @@
         <title>Pintar Help Blog</title>
         <link>https://help.pintar.co/blog</link>
         <description>Pintar Help Blog</description>
-        <lastBuildDate>Thu, 12 Oct 2023 03:42:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Oct 2023 10:33:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
-        <item>
-            <title><![CDATA[test lagi eng]]></title>
-            <link>https://help.pintar.co/blog/test-lagi-eng</link>
-            <guid>https://help.pintar.co/blog/test-lagi-eng</guid>
-            <pubDate>Thu, 12 Oct 2023 03:42:43 GMT</pubDate>
-            <description><![CDATA[test lagi eng]]></description>
-            <content:encoded><![CDATA[<p>test lagi eng</p>]]></content:encoded>
-            <category>internal</category>
-        </item>
-        <item>
-            <title><![CDATA[test eng]]></title>
-            <link>https://help.pintar.co/blog/test-eng</link>
-            <guid>https://help.pintar.co/blog/test-eng</guid>
-            <pubDate>Tue, 10 Oct 2023 07:56:47 GMT</pubDate>
-            <description><![CDATA[test eng]]></description>
-            <content:encoded><![CDATA[<p>test eng</p>]]></content:encoded>
-            <category>internal</category>
-        </item>
         <item>
             <title><![CDATA[How to Add Content]]></title>
             <link>https://help.pintar.co/blog/how-to-add-content</link>
