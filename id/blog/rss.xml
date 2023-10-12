@@ -4,10 +4,19 @@
         <title>Pintar Help Blog</title>
         <link>https://help.pintar.co/id/blog</link>
         <description>Pintar Help Blog</description>
-        <lastBuildDate>Tue, 10 Oct 2023 07:56:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Oct 2023 02:09:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>id</language>
+        <item>
+            <title><![CDATA[test lagi id]]></title>
+            <link>https://help.pintar.co/id/blog/test-lagi-eng</link>
+            <guid>https://help.pintar.co/id/blog/test-lagi-eng</guid>
+            <pubDate>Thu, 12 Oct 2023 02:09:56 GMT</pubDate>
+            <description><![CDATA[test lagi id]]></description>
+            <content:encoded><![CDATA[<p>test lagi id</p>]]></content:encoded>
+            <category>internal</category>
+        </item>
         <item>
             <title><![CDATA[test ind]]></title>
             <link>https://help.pintar.co/id/blog/test-eng</link>

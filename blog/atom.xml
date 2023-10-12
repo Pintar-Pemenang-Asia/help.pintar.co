@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://help.pintar.co/blog</id>
     <title>Pintar Help Blog</title>
-    <updated>2023-10-10T07:56:47.000Z</updated>
+    <updated>2023-10-12T02:09:56.571Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://help.pintar.co/blog"/>
     <subtitle>Pintar Help Blog</subtitle>
     <icon>https://help.pintar.co/https://storage.googleapis.com/cdn-1.pintaria.com/pintaria/pico/logo_pintaria_mobile.png</icon>
+    <entry>
+        <title type="html"><![CDATA[test lagi id]]></title>
+        <id>https://help.pintar.co/blog/test-lagi-eng</id>
+        <link href="https://help.pintar.co/blog/test-lagi-eng"/>
+        <updated>2023-10-12T02:09:56.571Z</updated>
+        <summary type="html"><![CDATA[test lagi id]]></summary>
+        <content type="html"><![CDATA[<p>test lagi id</p>]]></content>
+        <author>
+            <name>Juni Yadi</name>
+            <uri>https://github.com/juniyadi-pintar</uri>
+        </author>
+        <category label="internal" term="internal"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[test ind]]></title>
         <id>https://help.pintar.co/blog/test-eng</id>
