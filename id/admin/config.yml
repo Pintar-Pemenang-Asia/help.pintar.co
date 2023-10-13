@@ -1,0 +1,191 @@
+backend:
+  name: github
+  branch: main 
+  repo: Pintar-Pemenang-Asia/help.pintar.co
+  base_url: https://oauth.soc.pintar.co
+  auth_endpoint: /auth
+  commit_messages:
+    create: Create {{collection}} “{{slug}}”
+    update: Update {{collection}} “{{slug}}”
+    delete: Delete {{collection}} “{{slug}}”
+    uploadMedia: Upload “{{path}}" [skip ci]
+    deleteMedia: Delete “{{path}}”
+    openAuthoring: '{{message}}'
+
+# These lines should *not* be indented
+media_folder: "static/img" # Media files will be stored in the repo under static/images/uploads
+public_folder: "/img/" # The src attribute for uploaded media will begin with /images/uploads
+
+i18n:
+  structure: multiple_folders
+  locales: [en, id]
+  default_locale: en
+
+collections:
+  - name: blog
+    label: "blog"
+    folder: "contents/blog"
+    identifier_field: title
+    extension: md
+    widget: "list"
+    create: true
+    i18n: true
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields:
+      - name: title
+        label: Title
+        widget: string
+        i18n: true
+      - name: body
+        label: Body
+        widget: markdown
+        i18n: true
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        i18n: true
+      - label: "Authors"
+        name: "authors" 
+        i18n: true
+        widget: "select"
+        options: ["juniyadi", "yusran"]
+
+  - name: degrees
+    label: "degrees"
+    folder: "contents/docs/degrees"
+    identifier_field: title
+    extension: md
+    widget: "list"
+    create: true
+    i18n: true
+    slug: "{{slug}}"
+    fields:
+      - name: title
+        label: Title
+        widget: string
+        i18n: true
+      - name: body
+        label: Body
+        widget: markdown
+        i18n: true
+      - label: "Sidebar Position"
+        name: "sidebar_position"
+        widget: "number"
+        value_type: int
+        i18n: true
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        i18n: true
+
+  - name: enterprise
+    label: "enterprise"
+    folder: "contents/docs/enterprise"
+    identifier_field: title
+    extension: md
+    widget: "list"
+    create: true
+    i18n: true
+    slug: "{{slug}}"
+    fields:
+      - name: title
+        label: Title
+        widget: string
+        i18n: true
+      - name: body
+        label: Body
+        widget: markdown
+        i18n: true
+      - label: "Sidebar Position"
+        name: "sidebar_position"
+        widget: "number"
+        value_type: int
+        i18n: true
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        i18n: true
+
+  - name: faq
+    label: "faq"
+    folder: "contents/docs/faq"
+    identifier_field: title
+    extension: md
+    widget: "list"
+    create: true
+    i18n: true
+    slug: "{{slug}}"
+    fields:
+      - name: title
+        label: Title
+        widget: string
+        i18n: true
+      - name: body
+        label: Body
+        widget: markdown
+        i18n: true
+      - label: "Sidebar Position"
+        name: "sidebar_position"
+        widget: "number"
+        value_type: int
+        i18n: true
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        i18n: true
+
+  - name: skills
+    label: "skills"
+    folder: "contents/docs/skills"
+    identifier_field: title
+    extension: md
+    widget: "list"
+    create: true
+    i18n: true
+    slug: "{{slug}}"
+    fields:
+      - name: title
+        label: Title
+        widget: string
+        i18n: true
+      - name: body
+        label: Body
+        widget: markdown
+        i18n: true
+      - label: "Sidebar Position"
+        name: "sidebar_position"
+        widget: "number"
+        value_type: int
+        i18n: true
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        i18n: true
+
+  - name: prakerja
+    label: "prakerja"
+    folder: "contents/docs/prakerja"
+    identifier_field: title
+    extension: md
+    widget: "list"
+    create: true
+    i18n: true
+    slug: "{{slug}}"
+    fields:
+      - name: title
+        label: Title
+        widget: string
+        i18n: true
+      - name: body
+        label: Body
+        widget: markdown
+        i18n: true
+      - label: "Sidebar Position"
+        name: "sidebar_position"
+        widget: "number"
+        value_type: int
+        i18n: true
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        i18n: true
