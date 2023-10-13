@@ -24,9 +24,6 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Delete Admin Build
-        run: rm -rf static/admin
-
       - name: Build website
         run: npm run build
 
