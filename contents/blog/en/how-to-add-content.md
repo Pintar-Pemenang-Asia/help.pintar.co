@@ -15,7 +15,7 @@ authors: juniyadi
 
 After you have access to our organization, you can edit content documentation from our admin panel.
 
-1. Content Manager URL: <https://help-pintar.netlify.app/admin/>
+1. Content Manager URL: <https://help.stg.pintar.co/admin/>
 2. Login with GitHub Account
 3. Done, now you can add documentation based on the category
 4. Detail Form
