@@ -26,9 +26,17 @@ tags: []
 **Understanding Course (Overview)**
 
 1. See "Overview" to find out detailed information about the course you are taking.
+
+   ![](/img/screenshot-35-.png)
 2. See "Description" for a description of the course you are taking.
+
+   ![](/img/screenshot-36-.png)
 3. See "Learning Provider" for details on the learning provider for your course.
+
+   ![](/img/screenshot-38-.png)
 4. See "Instructors" for information on the instructors teaching your course.
+
+   ![](/img/screenshot-39-.png)
 
 
 

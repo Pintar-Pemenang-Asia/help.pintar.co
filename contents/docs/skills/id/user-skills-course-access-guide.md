@@ -26,9 +26,17 @@ tags: []
 **Memahami Kursus (Overview)**
 
 1. Lihat "Overview" untuk mengetahui detail informasi mengenai kursus yang diikuti.
+
+   ![](/img/screenshot-35-.png)
 2. Lihat "Description" untuk mengetahui deskripsi kursus yang diikuti.
+
+   ![](/img/screenshot-36-.png)
 3. Lihat "Learning Provider" untuk mengetahui informasi penyedia pembelajaran kursus yang diikuti.
+
+   ![](/img/screenshot-38-.png)
 4. Lihat "Instructors" untuk mengetahui informasi instruktur yang mengajar dalam kursus yang diikuti.
+
+   ![](/img/screenshot-39-.png)
 
 
 
