@@ -26,17 +26,17 @@ tags: []
 **Understanding Course (Overview)**
 
 1. See "Overview" to find out detailed information about the course you are taking.
-
-![](/img/screenshot-35-.png)
-
 2. See "Description" for a description of the course you are taking.
-
-![](/img/screenshot-36-.png)
-
 3. See "Learning Provider" for details on the learning provider for your course.
-
-![](/img/screenshot-38-.png)
-
 4. See "Instructors" for information on the instructors teaching your course.
 
-![](/img/screenshot-39-.png)
+
+
+**Understanding the Course (Course Content)**
+
+1. Click "Course Content" to find out the content you want to take in your course.
+
+   ![](/img/3.1.jpg)
+2. Click "Demo" to see an example of the content in the course. In Skills, sub-content are available as Documents, Videos, Articles, Discussions, Assignments, Live Sessions, and Quizzes.
+
+   ![](/img/3.2.jpg)

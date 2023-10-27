@@ -26,17 +26,17 @@ tags: []
 **Memahami Kursus (Overview)**
 
 1. Lihat "Overview" untuk mengetahui detail informasi mengenai kursus yang diikuti.
+2. Lihat "Description" untuk mengetahui deskripsi kursus yang diikuti.
+3. Lihat "Learning Provider" untuk mengetahui informasi penyedia pembelajaran kursus yang diikuti.
+4. Lihat "Instructors" untuk mengetahui informasi instruktur yang mengajar dalam kursus yang diikuti.
 
-   ![](/img/screenshot-35-.png)
 
-   2. Lihat "Description" untuk mengetahui deskripsi kursus yang diikuti.
 
-   ![](/img/screenshot-36-.png)
+**Memahami Kursus (Course Content)**
 
-   3. Lihat "Learning Provider" untuk mengetahui informasi penyedia pembelajaran kursus yang diikuti.
+1. Klik "Course Content" untuk mengetahui konten yang tersedia di kursus yang diikuti.
 
-   ![](/img/screenshot-38-.png)
+   ![](/img/3.1.jpg)
+2. Klik "Demo" untuk melihat contoh konten dalam kursus. Dalam Skills, subkonten tersedia dalam bentuk Document, Video, Article, Discussion, Assignment, Live Session, dan Quiz.
 
-   4. Lihat "Instructors" untuk mengetahui informasi instruktur yang mengajar dalam kursus yang diikuti.
-
-   ![](/img/screenshot-39-.png)
+   ![](/img/3.2.jpg)
