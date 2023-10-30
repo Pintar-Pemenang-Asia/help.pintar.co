@@ -21,8 +21,6 @@ tags: []
 
    ![](/img/1.5.png)
 
-
-
 **Memahami Kursus (Overview)**
 
 1. Lihat "Overview" untuk mengetahui detail informasi mengenai kursus yang diikuti.
@@ -38,8 +36,6 @@ tags: []
 
    ![](/img/2.4.png)
 
-
-
 **Memahami Kursus (Course Content)**
 
 1. Klik "Course Content" untuk mengetahui konten yang tersedia di kursus yang diikuti.
@@ -48,8 +44,6 @@ tags: []
 2. Klik "Demo" untuk melihat contoh konten dalam kursus. Dalam Skills, subkonten tersedia dalam bentuk Document, Video, Article, Discussion, Assignment, Live Session, dan Quiz.
 
    ![](/img/3.2.png)
-
-
 
 **Memahami Kursus (Subcontent Document)**
 
@@ -99,11 +93,11 @@ tags: []
 
     ![](/img/4.15.png)
 
-
-
 **Memahami Kursus (Subcontent Video)**
 
 1. Klik "Video Demo" untuk melihat contoh subkonten video.
+
+   ![](/img/5.1.png)
 2. Klik ikon *play* untuk mulai memutar video.
 3. Klik ikon *settings* untuk memilih resolusi video yang diinginkan.
 4. Pilih resolusi video yang diinginkan. Resolusi *Auto* berarti resolusi akan disesuaikan dengan kecepatan internet. Resolusi 234p merupakan resolusi yang paling rendah dan resolusi 720p yang paling tinggi.

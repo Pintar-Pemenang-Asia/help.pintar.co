@@ -21,8 +21,6 @@ tags: []
 
    ![](/img/1.5.png)
 
-
-
 **Understanding the Course (Overview)**
 
 1. See "Overview" to find out detailed information about the course you are taking.
@@ -38,8 +36,6 @@ tags: []
 
    ![](/img/2.4.png)
 
-
-
 **Understanding the Course (Course Content)**
 
 1. Click "Course Content" to find out the content you want to take in your course.
@@ -48,8 +44,6 @@ tags: []
 2. Click "Demo" to see an example of the content in the course. In Skills, sub-content are available as Documents, Videos, Articles, Discussions, Assignments, Live Sessions, and Quizzes.
 
    ![](/img/3.2.png)
-
-
 
 **Understanding the Course (Subcontent Document)**
 
@@ -99,11 +93,11 @@ tags: []
 
     ![](/img/4.15.png)
 
-
-
 **Understanding the Course (Subcontent Video)**
 
 1. Click "Video Demo" to see an example of a video subcontent.
+
+   ![](/img/5.1.png)
 2. Click the play icon to start playing the video.
 3. Click the settings icon to select the desired video resolution.
 4. Select the desired video resolution. Auto Resolution means the resolution will be adjusted according to internet speed. 234p resolution is the lowest resolution and 720p resolution is the highest.
