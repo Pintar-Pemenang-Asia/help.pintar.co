@@ -113,3 +113,21 @@ tags: []
 14. Click "Add a comment" and start filling in the comments.
 15. Click "SUBMIT" to upload comments into the system.
 16. Click the trash icon to delete an uploaded comment. Click "Reply" to reply to the comment. Click the like icon to like the comment.
+
+
+
+**Understanding Course (Subcontent Article)**
+
+1. Click "Article Demo" to see an example of article subcontent.
+
+
+2. Above the article subcontent page, the title and description of the article provided will be shown.
+3. Click "Notes" to add notes. The results of the notes can only be seen by the user.
+4. Click "Add a note" and start filling in the note. Click "CANCEL" to cancel filling in the note. Click "ADD NOTE" to upload the note into the system.
+5. The results of the completed notes can be seen under the "Notes" section. Notes will be accompanied by page number information annotated.
+6. Click the pencil icon to the right of the note text to change the contents of the uploaded note.
+7. Click the trash icon to delete the uploaded note.
+8. Click "Comments" to add a comment. The results of the comments can be seen by users, instructors, and users taking the same course.
+9. Click "Add a comment" and start filling in the comments.
+10. Click "SUBMIT" to upload comments into the system.
+11. Click the trash icon to delete an uploaded comment. Click "Reply" to reply to the comment. Click the like icon to like the comment.

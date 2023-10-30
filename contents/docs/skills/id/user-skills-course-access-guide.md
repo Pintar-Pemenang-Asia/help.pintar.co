@@ -113,3 +113,21 @@ tags: []
 14. Klik "Add a comment" dan mulailah mengisi komentar.
 15. Klik "SUBMIT" untuk mengunggah komentar ke dalam sistem.
 16. Klik ikon kotak sampah untuk menghapus komentar yang telah diunggah. Klik "Reply" untuk membalas komentar. Klik *ikon* like untuk memberi tanda sukai pada komentar tersebut.
+
+
+
+**Memahami Kursus (Subcontent Article)**
+
+1. Klik "Article Demo" untuk melihat contoh subkonten article.
+
+
+2. Di atas halaman subkonten article, akan ditunjukkan judul dan deskripsi artikel yang diberikan.
+3. Klik "Notes" untuk menambahkan catatan. Hasil dari notes hanya dapat dilihat oleh user.
+4. Klik "Add a note" dan mulailah mengisi catatan. Klik "CANCEL" untuk membatalkan mengisi catatan. Klik "ADD NOTE" untuk mengunggah catatan ke dalam sistem.
+5. Hasil dari notes yang sudah diisi dapat dilihat di bawah bagian “Notes”. Catatan akan dilengkapi dengan informasi nomor halaman yang diberi catatan.
+6. Klik ikon pensil di sebelah kanan teks catatan untuk mengubah isi catatan yang sudah diunggah.
+7. Klik ikon kotak sampah untuk menghapus catatan yang telah diunggah. 
+8. Klik "Comments" untuk menambahkan komentar. Hasil dari comments dapat dilihat user, instruktur, dan user yang mengikuti kursus yang sama.
+9. Klik "Add a comment" dan mulailah mengisi komentar.
+10. Klik "SUBMIT" untuk mengunggah komentar ke dalam sistem.
+11. Klik ikon kotak sampah untuk menghapus komentar yang telah diunggah. Klik "Reply" untuk membalas komentar. Klik ikon like untuk memberi tanda sukai pada komentar tersebut.
