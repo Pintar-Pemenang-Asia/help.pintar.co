@@ -5,7 +5,7 @@ tags: []
 ---
 **Entering the Course**
 
-1. After logging in to skills.pintar.co, click on the profile to go to the program you are enrolling in.
+1. After logging in to skills.pintar.co, click on the profile to go to the program you are enrolling in. 
 
    ![](/img/1.1.jpg)
 2. Click "My Programs" to see the programs you are enrolling in.
@@ -21,8 +21,6 @@ tags: []
 
    ![](/img/1.5.jpg)
 
-
-
 **Understanding Course (Overview)**
 
 1. See "Overview" to find out detailed information about the course you are taking.
@@ -37,8 +35,6 @@ tags: []
 4. See "Instructors" for information on the instructors teaching your course.
 
    ![](/img/screenshot-39-.png)
-
-
 
 **Understanding the Course (Course Content)**
 
