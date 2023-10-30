@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhelp_pintar_co=self.webpackChunkhelp_pintar_co||[]).push([[519],{7155:e=>{e.exports=JSON.parse('{"label":"internal","permalink":"/id/docs/tags/internal","allTagsPath":"/id/docs/tags","count":1,"items":[{"id":"faq/test-english","title":"test indonesia","description":"test indonesia","permalink":"/id/docs/faq/test-english"}]}')}}]);
