@@ -3,7 +3,7 @@ title: User Skills Course Access Guide
 sidebar_position: 1
 tags: []
 ---
-## Entering the Course
+**Entering the Course**
 
 1. After logging in to skills.pintar.co, click on the profile to go to the program you are enrolling in.
 
@@ -21,7 +21,9 @@ tags: []
 
    ![](/img/1.5.png)
 
-## Understanding the Course (Overview)
+
+
+**Understanding the Course (Overview)**
 
 1. See "Overview" to find out detailed information about the course you are taking.
 
@@ -36,7 +38,9 @@ tags: []
 
    ![](/img/2.4.png)
 
-## Understanding the Course (Course Content)
+
+
+**Understanding the Course (Course Content)**
 
 1. Click "Course Content" to find out the content you want to take in your course.
 
@@ -45,7 +49,9 @@ tags: []
 
    ![](/img/3.2.png)
 
-## Understanding the Course (Subcontent Document)
+
+
+**Understanding the Course (Subcontent Document)**
 
 1. Click "Document Demo" to see an example of a document subcontent.
 
@@ -80,7 +86,7 @@ tags: []
 11. Click "SUBMIT" to upload comments into the system.
 
     ![](/img/4.11.png)
-12. Click "Reply" to reply to the comment.
+12. Click "Reply" to reply to the comment. Click the like icon to like the comment.
 
     ![](/img/4.12.png)
 13. Click "Add a reply" and start filling in your comment reply.
@@ -93,41 +99,69 @@ tags: []
 
     ![](/img/4.15.png)
 
-## Understanding the Course (Subcontent Video)
+
+
+**Understanding the Course (Subcontent Video)**
 
 1. Click "Video Demo" to see an example of a video subcontent.
 
    ![](/img/5.1.png)
 2. Click the play icon to start playing the video.
+
+   ![](/img/5.2.png)
 3. Click the settings icon to select the desired video resolution.
+
+   ![](/img/5.3.png)
 4. Select the desired video resolution. Auto Resolution means the resolution will be adjusted according to internet speed. 234p resolution is the lowest resolution and 720p resolution is the highest.
+
+   ![](/img/5.4.png)
 5. Click the "Playback speed" icon to determine the desired video speed.
+
+   ![](/img/5.5.png)
 6. Select the desired video speed. 1x speed is average speed. 1.25x and 1.5x speeds are faster than the original video. Speeds of 0.75x and 0.5x are slower speeds than the original video.
+
+   ![](/img/5.6.png)
 7. Click the "Volume" icon to determine the desired volume.
+
+   ![](/img/5.7.png)
 8. The system will automatically continue learning after some time. Click "Cancel" to cancel it.
+
+   ![](/img/5.8.png)
 9. Click "Notes" to add notes. The results of the notes can only be seen by the user.
+
+   ![](/img/5.9.png)
 10. Click "Add a note" and start filling in the note. Click "CANCEL" to cancel filling in the note. Click "ADD NOTE" to upload the note into the system.
+
+    ![](/img/5.10.png)
 11. The results of the completed notes can be seen under the "Notes" section. Notes will be accompanied by annotated minute and second information.
+
+    ![](/img/5.11.png)
 12. Click the pencil icon to the right of the note text to change the contents of the uploaded note. Click the trash icon to delete the uploaded note.
+
+    ![](/img/5.12.png)
 13. Click "Comments" to add a comment. The results of the comments can be seen by users, instructors, and users taking the same course.
+
+    ![](/img/5.13.png)
 14. Click "Add a comment" and start filling in the comments.
+
+    ![](/img/5.14.png)
 15. Click "SUBMIT" to upload comments into the system.
+
+    ![](/img/5.15.png)
 16. Click the trash icon to delete an uploaded comment. Click "Reply" to reply to the comment. Click the like icon to like the comment.
 
+    ![](/img/5.16.png)
 
 
-## Understanding Course (Subcontent Article)
+
+**Understanding the Course (Subcontent Article)**
 
 1. Click "Article Demo" to see an example of article subcontent.
-
-
 2. Above the article subcontent page, the title and description of the article provided will be shown.
 3. Click "Notes" to add notes. The results of the notes can only be seen by the user.
 4. Click "Add a note" and start filling in the note. Click "CANCEL" to cancel filling in the note. Click "ADD NOTE" to upload the note into the system.
-5. The results of the completed notes can be seen under the "Notes" section. Notes will be accompanied by page number information annotated.
-6. Click the pencil icon to the right of the note text to change the contents of the uploaded note.
-7. Click the trash icon to delete the uploaded note.
-8. Click "Comments" to add a comment. The results of the comments can be seen by users, instructors, and users taking the same course.
-9. Click "Add a comment" and start filling in the comments.
-10. Click "SUBMIT" to upload comments into the system.
-11. Click the trash icon to delete an uploaded comment. Click "Reply" to reply to the comment. Click the like icon to like the comment.
+5. The results of the completed notes can be seen under the "Notes" section. Notes will be accompanied by page number information annotated. Click the pencil icon to the right of the note text to change the contents of the uploaded note. Click the trash icon to delete the uploaded note.
+6. Click "Comments" to add a comment. The results of the comments can be seen by users, instructors, and users taking the same course.
+7. Click "Add a comment" and start filling in the comments.
+8. Click "SUBMIT" to upload comments into the system.
+9. Click the trash icon to delete an uploaded comment. Click "Reply" to reply to the comment. Click the like icon to like the comment.

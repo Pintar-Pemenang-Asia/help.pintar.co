@@ -3,7 +3,7 @@ title: Panduan Akses Kursus Skills User
 sidebar_position: 1
 tags: []
 ---
-## Memasuki Kursus
+**Memasuki Kursus**
 
 1. Setelah *login* di skills.pintar.co, klik *profile* untuk menuju program yang diikuti.
 
@@ -21,7 +21,9 @@ tags: []
 
    ![](/img/1.5.png)
 
-## Memahami Kursus (Overview)
+
+
+**Memahami Kursus (Overview)**
 
 1. Lihat "Overview" untuk mengetahui detail informasi mengenai kursus yang diikuti.
 
@@ -36,7 +38,9 @@ tags: []
 
    ![](/img/2.4.png)
 
-## Memahami Kursus (Course Content)
+
+
+**Memahami Kursus (Course Content)**
 
 1. Klik "Course Content" untuk mengetahui konten yang tersedia di kursus yang diikuti.
 
@@ -45,7 +49,9 @@ tags: []
 
    ![](/img/3.2.png)
 
-## Memahami Kursus (Subcontent Document)
+
+
+**Memahami Kursus (Subcontent Document)**
 
 1. Klik "Document Demo" untuk melihat contoh subkonten *document*.
 
@@ -56,7 +62,7 @@ tags: []
 3. Klik ikon "<" untuk keluar dari tampilan layar penuh *document*.
 
    ![](/img/4.3.png)
-4. Klik "Notes" untuk menambahkan catatan. Hasil dari *notes* hanya dapat dilihat oleh user.
+4. Klik "Notes" untuk menambahkan catatan. Hasil dari *notes* hanya dapat dilihat oleh *user*.
 
    ![](/img/4.4.png)
 5. Klik "Add a note" dan mulailah mengisi catatan. Klik "CANCEL" untuk membatalkan mengisi catatan. Klik "ADD NOTE" untuk mengunggah catatan ke dalam sistem.
@@ -80,7 +86,7 @@ tags: []
 11. Klik "SUBMIT" untuk mengunggah komentar ke dalam sistem.
 
     ![](/img/4.11.png)
-12. Klik "Reply" untuk membalas komentar.
+12. Klik "Reply" untuk membalas komentar. Klik icon *like* untuk menyukai komentar.
 
     ![](/img/4.12.png)
 13. Klik "Add a reply" dan mulailah mengisi balasan komentar.
@@ -93,41 +99,69 @@ tags: []
 
     ![](/img/4.15.png)
 
-## Memahami Kursus (Subcontent Video)
+
+
+**Memahami Kursus (Subcontent Video)**
 
 1. Klik "Video Demo" untuk melihat contoh subkonten video.
 
    ![](/img/5.1.png)
 2. Klik ikon *play* untuk mulai memutar video.
+
+   ![](/img/5.2.png)
 3. Klik ikon *settings* untuk memilih resolusi video yang diinginkan.
+
+   ![](/img/5.3.png)
 4. Pilih resolusi video yang diinginkan. Resolusi *Auto* berarti resolusi akan disesuaikan dengan kecepatan internet. Resolusi 234p merupakan resolusi yang paling rendah dan resolusi 720p yang paling tinggi.
+
+   ![](/img/5.4.png)
 5. Klik ikon "Playback speed" untuk menentukan kecepatan video yang diinginkan.
+
+   ![](/img/5.5.png)
 6. Pilih kecepatan video yang diinginkan. Kecepatan 1x merupakan kecepatan normal. Kecepatan 1,25x dan 1,5x merupakan kecepatan lebih cepat daripada video aslinya. Kecepatan 0,75x dan 0,5x merupakan kecepatan lebih lambat daripada video aslinya.
+
+   ![](/img/5.6.png)
 7. Klik ikon "Volume" untuk menentukan volume atau besaran suara yang diinginkan.
+
+   ![](/img/5.7.png)
 8. Sistem secara otomatis akan melanjutkan pembelajaran setelah beberapa waktu. Klik "Cancel" untuk membatalkannya.
+
+   ![](/img/5.8.png)
 9. Klik "Notes" untuk menambahkan catatan. Hasil dari *notes* hanya dapat dilihat oleh *user*.
+
+   ![](/img/5.9.png)
 10. Klik "Add a note" dan mulailah mengisi catatan. Klik "CANCEL" untuk membatalkan mengisi catatan. Klik "ADD NOTE" untuk mengunggah catatan ke dalam sistem.
+
+    ![](/img/5.10.png)
 11. Hasil dari *notes* yang sudah diisi dapat dilihat di bawah bagian “Notes”. Catatan akan dilengkapi dengan informasi menit dan detik yang diberi catatan.
+
+    ![](/img/5.11.png)
 12. Klik ikon pensil di sebelah kanan teks catatan untuk mengubah isi catatan yang sudah diunggah. Klik ikon kotak sampah untuk menghapus catatan yang telah diunggah. 
+
+    ![](/img/5.12.png)
 13. Klik "Comments" untuk menambahkan komentar. Hasil dari *comments* dapat dilihat *user*, instruktur, dan *user* yang mengikuti kursus yang sama.
+
+    ![](/img/5.13.png)
 14. Klik "Add a comment" dan mulailah mengisi komentar.
+
+    ![](/img/5.14.png)
 15. Klik "SUBMIT" untuk mengunggah komentar ke dalam sistem.
-16. Klik ikon kotak sampah untuk menghapus komentar yang telah diunggah. Klik "Reply" untuk membalas komentar. Klik *ikon* like untuk memberi tanda sukai pada komentar tersebut.
+
+    ![](/img/5.15.png)
+16. Klik ikon kotak sampah untuk menghapus komentar yang telah diunggah. Klik "Reply" untuk membalas komentar. Klik ikon *like* untuk menyukai komentar tersebut.
+
+    ![](/img/5.16.png)
 
 
 
-## Memahami Kursus (Subcontent Article)
+**Memahami Kursus (Subcontent Article)**
 
-1. Klik "Article Demo" untuk melihat contoh subkonten article.
-
-
-2. Di atas halaman subkonten article, akan ditunjukkan judul dan deskripsi artikel yang diberikan.
-3. Klik "Notes" untuk menambahkan catatan. Hasil dari notes hanya dapat dilihat oleh user.
+1. Klik "Article Demo" untuk melihat contoh subkonten *article*.
+2. Di atas halaman subkonten *article*, akan ditunjukkan judul dan deskripsi artikel yang diberikan.
+3. Klik "Notes" untuk menambahkan catatan. Hasil dari *notes* hanya dapat dilihat oleh *user*.
 4. Klik "Add a note" dan mulailah mengisi catatan. Klik "CANCEL" untuk membatalkan mengisi catatan. Klik "ADD NOTE" untuk mengunggah catatan ke dalam sistem.
-5. Hasil dari notes yang sudah diisi dapat dilihat di bawah bagian “Notes”. Catatan akan dilengkapi dengan informasi nomor halaman yang diberi catatan.
-6. Klik ikon pensil di sebelah kanan teks catatan untuk mengubah isi catatan yang sudah diunggah.
-7. Klik ikon kotak sampah untuk menghapus catatan yang telah diunggah. 
-8. Klik "Comments" untuk menambahkan komentar. Hasil dari comments dapat dilihat user, instruktur, dan user yang mengikuti kursus yang sama.
-9. Klik "Add a comment" dan mulailah mengisi komentar.
-10. Klik "SUBMIT" untuk mengunggah komentar ke dalam sistem.
-11. Klik ikon kotak sampah untuk menghapus komentar yang telah diunggah. Klik "Reply" untuk membalas komentar. Klik ikon like untuk memberi tanda sukai pada komentar tersebut.
+5. Hasil dari *notes* yang sudah diisi dapat dilihat di bawah bagian “Notes”. Catatan akan dilengkapi dengan informasi nomor halaman yang diberi catatan. Klik ikon pensil di sebelah kanan teks catatan untuk mengubah isi catatan yang sudah diunggah. Klik ikon kotak sampah untuk menghapus catatan yang telah diunggah. 
+6. Klik "Comments" untuk menambahkan komentar. Hasil dari *comments* dapat dilihat *user*, instruktur, dan *user* yang mengikuti kursus yang sama.
+7. Klik "Add a comment" dan mulailah mengisi komentar.
+8. Klik "SUBMIT" untuk mengunggah komentar ke dalam sistem.
+9. Klik ikon kotak sampah untuk menghapus komentar yang telah diunggah. Klik "Reply" untuk membalas komentar. Klik ikon *like* untuk menyukai komentar tersebut.
