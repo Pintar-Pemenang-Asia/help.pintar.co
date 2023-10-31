@@ -3,7 +3,7 @@ title: Panduan Akses Kursus Skills User
 sidebar_position: 1
 tags: []
 ---
-**Memasuki Kursus**
+## Memasuki Kursus
 
 1. Setelah *login* di skills.pintar.co, klik *profile* untuk menuju program yang diikuti.
 
@@ -21,7 +21,7 @@ tags: []
 
    ![](/img/1.5.png)
 
-**Memahami Kursus (Overview)**
+## Memahami Kursus (Overview)
 
 1. Lihat "Overview" untuk mengetahui detail informasi mengenai kursus yang diikuti.
 
@@ -36,7 +36,7 @@ tags: []
 
    ![](/img/2.4.png)
 
-**Memahami Kursus (Course Content)**
+## Memahami Kursus (Course Content)
 
 1. Klik "Course Content" untuk mengetahui konten yang tersedia di kursus yang diikuti.
 
@@ -45,7 +45,7 @@ tags: []
 
    ![](/img/3.2.png)
 
-**Memahami Kursus (Subcontent Document)**
+## Memahami Kursus (Subcontent Document)
 
 1. Klik "Document Demo" untuk melihat contoh subkonten *document*.
 
@@ -93,7 +93,7 @@ tags: []
 
     ![](/img/4.15.png)
 
-**Memahami Kursus (Subcontent Video)**
+## Memahami Kursus (Subcontent Video)
 
 1. Klik "Video Demo" untuk melihat contoh subkonten video.
 
@@ -116,7 +116,7 @@ tags: []
 
 
 
-**Memahami Kursus (Subcontent Article)**
+## Memahami Kursus (Subcontent Article)
 
 1. Klik "Article Demo" untuk melihat contoh subkonten article.
 

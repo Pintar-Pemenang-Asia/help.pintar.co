@@ -3,7 +3,7 @@ title: User Skills Course Access Guide
 sidebar_position: 1
 tags: []
 ---
-**Entering the Course**
+## Entering the Course
 
 1. After logging in to skills.pintar.co, click on the profile to go to the program you are enrolling in.
 
@@ -21,7 +21,7 @@ tags: []
 
    ![](/img/1.5.png)
 
-**Understanding the Course (Overview)**
+## Understanding the Course (Overview)
 
 1. See "Overview" to find out detailed information about the course you are taking.
 
@@ -36,7 +36,7 @@ tags: []
 
    ![](/img/2.4.png)
 
-**Understanding the Course (Course Content)**
+## Understanding the Course (Course Content)
 
 1. Click "Course Content" to find out the content you want to take in your course.
 
@@ -45,7 +45,7 @@ tags: []
 
    ![](/img/3.2.png)
 
-**Understanding the Course (Subcontent Document)**
+## Understanding the Course (Subcontent Document)
 
 1. Click "Document Demo" to see an example of a document subcontent.
 
@@ -93,7 +93,7 @@ tags: []
 
     ![](/img/4.15.png)
 
-**Understanding the Course (Subcontent Video)**
+## Understanding the Course (Subcontent Video)
 
 1. Click "Video Demo" to see an example of a video subcontent.
 
@@ -116,7 +116,7 @@ tags: []
 
 
 
-**Understanding Course (Subcontent Article)**
+## Understanding Course (Subcontent Article)
 
 1. Click "Article Demo" to see an example of article subcontent.
 
