@@ -45,7 +45,7 @@ tags: []
 
    ![](/img/3.2.png)
 
-## **Memahami Kursus (Subcontent Document)**
+### **Memahami Kursus (Subcontent Document)**
 
 1. Klik "Document Demo" untuk melihat contoh subkonten *document*.
 
@@ -93,7 +93,7 @@ tags: []
 
     ![](/img/4.15.png)
 
-## **Memahami Kursus (Subcontent Video)**
+### **Memahami Kursus (Subcontent Video)**
 
 1. Klik "Video Demo" untuk melihat contoh subkonten video.
 
@@ -144,14 +144,84 @@ tags: []
 
     ![](/img/5.16.png)
 
-## **Memahami Kursus (Subcontent Article)**
+### **Memahami Kursus (Subcontent Article)**
 
 1. Klik "Article Demo" untuk melihat contoh subkonten *article*.
+
+   ![](/img/6.1.png)
 2. Di atas halaman subkonten *article*, akan ditunjukkan judul dan deskripsi artikel yang diberikan.
+
+   ![](/img/6.2.png)
 3. Klik "Notes" untuk menambahkan catatan. Hasil dari *notes* hanya dapat dilihat oleh *user*.
+
+   ![](/img/6.3.png)
 4. Klik "Add a note" dan mulailah mengisi catatan. Klik "CANCEL" untuk membatalkan mengisi catatan. Klik "ADD NOTE" untuk mengunggah catatan ke dalam sistem.
+
+   ![](/img/6.4.png)
 5. Hasil dari *notes* yang sudah diisi dapat dilihat di bawah bagian “Notes”. Catatan akan dilengkapi dengan informasi nomor halaman yang diberi catatan. Klik ikon pensil di sebelah kanan teks catatan untuk mengubah isi catatan yang sudah diunggah. Klik ikon kotak sampah untuk menghapus catatan yang telah diunggah. 
+
+   ![](/img/6.5.png)
 6. Klik "Comments" untuk menambahkan komentar. Hasil dari *comments* dapat dilihat *user*, instruktur, dan *user* yang mengikuti kursus yang sama.
+
+   ![](/img/6.6.png)
 7. Klik "Add a comment" dan mulailah mengisi komentar.
+
+   ![](/img/6.7.png)
 8. Klik "SUBMIT" untuk mengunggah komentar ke dalam sistem.
+
+   ![](/img/6.8.png)
 9. Klik ikon kotak sampah untuk menghapus komentar yang telah diunggah. Klik "Reply" untuk membalas komentar. Klik ikon *like* untuk menyukai komentar tersebut.
+
+   ![](/img/6.9.png)
+
+
+
+### **Memahami Kursus (Subcontent Discussion)**
+
+1. Klik "Discussion Demo" untuk melihat subkonten *discussion*.
+
+   ![](/img/7.1.png)
+2. Di atas halaman subkonten *discussion*, akan ditunjukkan judul dan deskripsi diskusi yang diberikan.
+
+   ![](/img/7.2.png)
+3. Untuk mengerjakan diskusi yang diberikan, masukkan jawaban pada isian di bawah "Add your answer".
+
+   ![](/img/7.3.png)
+4. Pastikan jawaban yang diisi sudah benar. Klik "CANCEL" untuk membatalkan jawaban. Klik "POST" untuk mengunggah jawaban ke dalam sistem.
+
+   ![](/img/7.4.png)
+5. Hasil dari jawaban diskusi dapat dilihat di bawah bagian *answers*. Klik ikon kotak sampah untuk menghapus jawaban yang telah diunggah. Klik "Reply" untuk membalas jawaban lain. Klik ikon *like* untuk menyukai jawaban.
+
+   ![](/img/7.5.png)
+
+
+
+### **Memahami Kursus (Subcontent Assignment)**
+
+1. Klik "Assignment Demo" untuk melihat contoh subkonten *assignment*.
+
+   ![](/img/8.1.png)
+2. Di atas halaman subkonten *assignment*, akan ditunjukkan judul dan deskripsi tugas yang diberikan.
+
+   ![](/img/8.2.png)
+3. Di bawah "Submit your Assignment", akan ditunjukkan periode pengerjaan, skor pengerjaan, dan status pengerjaan tugas yang diberikan.
+
+   ![](/img/8.3.png)
+4. Untuk mengerjakan tugas yang diberikan, masukkan jawaban pada isian di bawah "Add your answer".
+
+   ![](/img/8.4.png)
+5. Jika ingin memasukkan dokumen untuk menunjang jawaban, klik "Choose your files here" di bawah "Upload document".
+
+   ![](/img/8.5.png)
+6. Klik "SUBMIT" ketika jawaban dan dokumen yang dimasukkan sudah benar. Dokumen yang diterima hanya dalam bentuk .docx, .xlsx, mp4, .pdf, .jpg, .jpeg, .png, .rar, .zip. Dokumen dibatasi hanya sebanyak 10 dengan maksimal ukuran 10MB.
+
+   ![](/img/8.6.png)
+7. Setelah dikumpulkan, halaman subkonten *assignment* akan menampilkan status yang berubah. Status "Submitted" berarti tugas berhasil dikumpulkan. "Last Modified" menunjukkan waktu terakhir kali tugas dikumpulkan atau diedit.
+
+   ![](/img/8.7.png)
+8. Klik "Check Submission" untuk memeriksa kembali tugas yang dikumpulkan.
+
+   ![](/img/8.8.png)
+9. Jika ingin mengedit tugas yang sudah dikumpulkan, klik "EDIT ASSIGNMENT".
+
+   ![](/img/8.9.png)

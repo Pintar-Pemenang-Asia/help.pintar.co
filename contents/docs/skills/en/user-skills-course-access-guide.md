@@ -45,7 +45,7 @@ tags: []
 
    ![](/img/3.2.png)
 
-## **Understanding the Course (Subcontent Document)**
+### **Understanding the Course (Subcontent Document)**
 
 1. Click "Document Demo" to see an example of a document subcontent.
 
@@ -93,7 +93,7 @@ tags: []
 
     ![](/img/4.15.png)
 
-## **Understanding the Course (Subcontent Video)**
+### **Understanding the Course (Subcontent Video)**
 
 1. Click "Video Demo" to see an example of a video subcontent.
 
@@ -144,14 +144,84 @@ tags: []
 
     ![](/img/5.16.png)
 
-## **Understanding the Course (Subcontent Article)**
+### **Understanding the Course (Subcontent Article)**
 
 1. Click "Article Demo" to see an example of article subcontent.
+
+   ![](/img/6.1.png)
 2. Above the article subcontent page, the title and description of the article provided will be shown.
+
+   ![](/img/6.2.png)
 3. Click "Notes" to add notes. The results of the notes can only be seen by the user.
+
+   ![](/img/6.3.png)
 4. Click "Add a note" and start filling in the note. Click "CANCEL" to cancel filling in the note. Click "ADD NOTE" to upload the note into the system.
+
+   ![](/img/6.4.png)
 5. The results of the completed notes can be seen under the "Notes" section. Notes will be accompanied by page number information annotated. Click the pencil icon to the right of the note text to change the contents of the uploaded note. Click the trash icon to delete the uploaded note.
+
+   ![](/img/6.5.png)
 6. Click "Comments" to add a comment. The results of the comments can be seen by users, instructors, and users taking the same course.
+
+   ![](/img/6.6.png)
 7. Click "Add a comment" and start filling in the comments.
+
+   ![](/img/6.7.png)
 8. Click "SUBMIT" to upload comments into the system.
+
+   ![](/img/6.8.png)
 9. Click the trash icon to delete an uploaded comment. Click "Reply" to reply to the comment. Click the like icon to like the comment.
+
+   ![](/img/6.9.png)
+
+
+
+### **Understanding the Course (Subcontent Discussion)**
+
+1. Click "Discussion Demo" to see the discussion subcontent.
+
+   ![](/img/7.1.png)
+2. At the top of the discussion sub-content page, the title and description of the discussion provided will be shown.
+
+   ![](/img/7.2.png)
+3. To work on the discussion, enter your answer in the field under "Add your answer".
+
+   ![](/img/7.3.png)
+4. Ensure the answers entered are correct. Click "CANCEL" to cancel the answer. Click "POST" to upload answers into the system.
+
+   ![](/img/7.4.png)
+5. The results of the discussion answers can be seen under the answers section. Click the trash box icon to delete uploaded answers. Click "Reply" to reply to another answer. Click the like icon to like the answer.
+
+   ![](/img/7.5.png)
+
+
+
+### **Understanding the Course (Subcontent Assignment)**
+
+1. Click "Assignment Demo" to see an example of an assignment subcontent.
+
+   ![](/img/8.1.png)
+2. At the top of the assignment subcontent page, the title and description of the assignment given will be shown.
+
+   ![](/img/8.2.png)
+3. Under "Submit your Assignment", the work period, work score, and work status of the assigned assignment will be shown.
+
+   ![](/img/8.3.png)
+4. To complete the assignment, enter your answer in the field under "Add your answer".
+
+   ![](/img/8.4.png)
+5. If you want to include documents to support your answer, click "Choose your files here" under "Upload document".
+
+   ![](/img/8.5.png)
+6. Click "SUBMIT" when the answers and documents entered are correct. Documents accepted are only in the form of .docx, .xlsx, mp4, .pdf, .jpg, .jpeg, .png, .rar, .zip. Documents are limited to 10 with a maximum size of 10MB.
+
+   ![](/img/8.6.png)
+7. Once collected, the assignment subcontent page will display the changed status. The status "Submitted" means the assignment was successfully submitted. "Last Modified" shows the time the assignment was last submitted or edited.
+
+   ![](/img/8.7.png)
+8. Click "Check Submission" to check the submitted assignments again.
+
+   ![](/img/8.8.png)
+9. If you want to edit an assignment that has been submitted, click "EDIT ASSIGNMENT".
+
+   ![](/img/8.9.png)
