@@ -1,6 +1,6 @@
 ---
 title: User Skills Course Access Guide
-sidebar_position: 1
+sidebar_position: 2
 tags: []
 ---
 **Entering the Course**

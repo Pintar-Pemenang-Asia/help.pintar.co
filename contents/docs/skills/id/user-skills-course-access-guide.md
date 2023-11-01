@@ -1,6 +1,6 @@
 ---
 title: Panduan Akses Kursus Skills User
-sidebar_position: 1
+sidebar_position: 2
 tags: []
 ---
 **Memasuki Kursus**
