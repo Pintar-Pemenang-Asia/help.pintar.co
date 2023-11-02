@@ -45,7 +45,7 @@ tags: []
 
    ![](/img/3.2.png)
 
-### **Memahami Kursus (Subcontent Document)**
+### **Memahami Kursus (Subkonten Dokumen)**
 
 1. Klik "Document Demo" untuk melihat contoh subkonten *document*.
 
@@ -93,7 +93,7 @@ tags: []
 
     ![](/img/4.15.png)
 
-### **Memahami Kursus (Subcontent Video)**
+### **Memahami Kursus (Subkonten Video)**
 
 1. Klik "Video Demo" untuk melihat contoh subkonten video.
 
@@ -144,7 +144,7 @@ tags: []
 
     ![](/img/5.16.png)
 
-### **Memahami Kursus (Subcontent Article)**
+### **Memahami Kursus (Subkonten Artikel)**
 
 1. Klik "Article Demo" untuk melihat contoh subkonten *article*.
 
@@ -174,9 +174,7 @@ tags: []
 
    ![](/img/6.9.png)
 
-
-
-### **Memahami Kursus (Subcontent Discussion)**
+### **Memahami Kursus (Subkonten Diskusi)**
 
 1. Klik "Discussion Demo" untuk melihat subkonten *discussion*.
 
@@ -194,9 +192,7 @@ tags: []
 
    ![](/img/7.5.png)
 
-
-
-### **Memahami Kursus (Subcontent Assignment)**
+### **Memahami Kursus (Subkonten Tugas)**
 
 1. Klik "Assignment Demo" untuk melihat contoh subkonten *assignment*.
 

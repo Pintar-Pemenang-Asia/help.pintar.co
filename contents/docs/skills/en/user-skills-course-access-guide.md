@@ -45,7 +45,7 @@ tags: []
 
    ![](/img/3.2.png)
 
-### **Understanding the Course (Subcontent Document)**
+### **Understanding the Course (Document Subcontent)**
 
 1. Click "Document Demo" to see an example of a document subcontent.
 
@@ -93,7 +93,7 @@ tags: []
 
     ![](/img/4.15.png)
 
-### **Understanding the Course (Subcontent Video)**
+### **Understanding the Course (Video Subcontent)**
 
 1. Click "Video Demo" to see an example of a video subcontent.
 
@@ -144,7 +144,7 @@ tags: []
 
     ![](/img/5.16.png)
 
-### **Understanding the Course (Subcontent Article)**
+### **Understanding the Course (Article Subcontent)**
 
 1. Click "Article Demo" to see an example of article subcontent.
 
@@ -174,9 +174,7 @@ tags: []
 
    ![](/img/6.9.png)
 
-
-
-### **Understanding the Course (Subcontent Discussion)**
+### **Understanding the Course (Discussion Subcontent)**
 
 1. Click "Discussion Demo" to see the discussion subcontent.
 
@@ -194,9 +192,7 @@ tags: []
 
    ![](/img/7.5.png)
 
-
-
-### **Understanding the Course (Subcontent Assignment)**
+### **Understanding the Course (Assignment Subcontent)**
 
 1. Click "Assignment Demo" to see an example of an assignment subcontent.
 
