@@ -242,24 +242,78 @@ tags: []
 ### **Understanding the Course (Quiz Subcontent)**
 
 1. Click "Quiz Demo" to see an example of a quiz subcontent.
+
+   ![](/img/10.1.png)
 2. The quiz sub-content page will show the number of questions, assessment method, permitted attempts, minimum score, and quiz duration.
+
+   ![](/img/10.2.png)
 3. Click "TAKE QUIZ" to start taking the quiz.
+
+   ![](/img/10.3.png)
 4. Before being directed to the quiz page, a pop-up will appear reminding you of the number of attempts, reminding you constantly to be careful when working on the questions, reminding you to always be on the quiz page, and clicking "SUBMIT" at the end of the process so that the answers are recorded.
+
+   ![](/img/10.4.png)
 5. Click "CONTINUE" if the pop-up warning has been understood.
+
+   ![](/img/10.5.png)
 6. The quiz page will show the quiz title at the top and the number of questions below it. Filling in a round answer means that the question you are working on is a single choice. Click on one of the answer choices to lock the answer (the circle will fill in red). Click "Leave" to leave the quiz page.
+
+   ![](/img/10.6.png)
 7. Click the arrow icon next to "Next" to access the next quiz question. The next quiz question can also be accessed by pressing the question number under the quiz title.
+
+   ![](/img/10.7.png)
 8. Filling in a square answer means that the question you are working on is multiple choices.
+
+   ![](/img/10.8.png)
 9. Click one or more answer choices to lock the answer (the box will fill in red).
+
+   ![](/img/10.9.png)
+
+   ![](/img/10.91.png)
 10. Click the arrow icon next to "Next" to access the next quiz question. The next quiz question can also be accessed by pressing the question number under the quiz title.
+
+    ![](/img/10.10.png)
 11. Entering a true or false answer means that the question being answered is true/false.
+
+    ![](/img/10.11.png)
 12. Click on one of the answer choices to lock the answer (the circle will fill in red).
+
+    ![](/img/10.12.png)
 13. After all quizzes have been completed, click "PREVIEW & SUBMIT" to review the answers that have been filled in before sending them.
+
+    ![](/img/10.13.png)
 14. The quiz preview page will show the number of questions and progress status.
+
+    ![](/img/10.14.png)
+
+    ![](/img/10.141.png)
 15. Click "RETURN TO QUIZ" to return to the quiz and click "SUBMIT" to send answers.
+
+    ![](/img/10.15.png)
 16. After clicking "SUBMIT", a final submission pop-up will appear warning whether the answer submission has been confirmed. Click "SUBMIT" to submit your answer.
+
+    ![](/img/10.16.png)
 17. After clicking "SUBMIT", a quiz finished pop-up will appear explaining that all the quizzes have been completed and the quiz results can be checked.
+
+    ![](/img/10.17.png)
 18. After completing the quiz, the quiz subcontent page will show the progress status. The status "Passed" means passing and the score obtained has exceeded the minimum score.
+
+    ![](/img/10.18.png)
 19. The score obtained can be seen under "Your Score".
+
+    ![](/img/10.19.png)
 20. Click "Review" to see previously completed quizzes.
+
+    ![](/img/10.20.png)
 21. The completed quiz page will show the status of each completed question. The "Correct" status at the top of the page means the answer is correct. The answer option highlighted in green represents the right answer.
+
+    ![](/img/10.21.png)
+
+    ![](/img/10.211.png)
+
+    ![](/img/10.212.png)
+
+    ![](/img/10.213.png)
 22. After checking all the quizzes that have been taken, click "Leave" to leave the quiz page.
+
+    ![](/img/10.22.png)
