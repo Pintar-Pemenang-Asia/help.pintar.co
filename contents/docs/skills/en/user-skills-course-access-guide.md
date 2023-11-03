@@ -221,3 +221,39 @@ tags: []
 9. If you want to edit an assignment that has been submitted, click "EDIT ASSIGNMENT".
 
    ![](/img/8.9.png)
+
+
+
+### **Understanding the Course (Live Session Subcontent)**
+
+1. Click "Live Session Demo" to see an example of live session subcontent.
+2. After ensuring the title, date, time, duration, and description of the live session are correct, click "Join" to join the live session.
+3. Click "Join meeting" to enter the virtual live session room.
+4. After participating in a live session, the live session subcontent page will give the status "Joined" which means the live session has been attended.
+
+
+
+### **Understanding the Course (Quiz Subcontent)**
+
+1. Click "Quiz Demo" to see an example of a quiz subcontent.
+2. The quiz sub-content page will show the number of questions, assessment method, permitted attempts, minimum score, and quiz duration.
+3. Click "TAKE QUIZ" to start taking the quiz.
+4. Before being directed to the quiz page, a pop-up will appear reminding you of the number of attempts, reminding you constantly to be careful when working on the questions, reminding you to always be on the quiz page, and clicking "SUBMIT" at the end of the process so that the answers are recorded.
+5. Click "CONTINUE" if the pop-up warning has been understood.
+6. The quiz page will show the quiz title at the top and the number of questions below it. Filling in a round answer means that the question you are working on is a single choice. Click on one of the answer choices to lock the answer (the circle will fill in red). Click "Leave" to leave the quiz page.
+7. Click the arrow icon next to "Next" to access the next quiz question. The next quiz question can also be accessed by pressing the question number under the quiz title.
+8. Filling in a square answer means that the question you are working on is multiple choices.
+9. Click one or more answer choices to lock the answer (the box will fill in red).
+10. Click the arrow icon next to "Next" to access the next quiz question. The next quiz question can also be accessed by pressing the question number under the quiz title.
+11. Entering a true or false answer means that the question being answered is true/false.
+12. Click on one of the answer choices to lock the answer (the circle will fill in red).
+13. After all quizzes have been completed, click "PREVIEW & SUBMIT" to review the answers that have been filled in before sending them.
+14. The quiz preview page will show the number of questions and progress status.
+15. Click "RETURN TO QUIZ" to return to the quiz and click "SUBMIT" to send answers.
+16. After clicking "SUBMIT", a final submission pop-up will appear warning whether the answer submission has been confirmed. Click "SUBMIT" to submit your answer.
+17. After clicking "SUBMIT", a quiz finished pop-up will appear explaining that all the quizzes have been completed and the quiz results can be checked.
+18. After completing the quiz, the quiz subcontent page will show the progress status. The status "Passed" means passing and the score obtained has exceeded the minimum score.
+19. The score obtained can be seen under "Your Score".
+20. Click "Review" to see previously completed quizzes.
+21. The completed quiz page will show the status of each completed question. The "Correct" status at the top of the page means the answer is correct. The answer option highlighted in green represents the right answer.
+22. After checking all the quizzes that have been taken, click "Leave" to leave the quiz page.

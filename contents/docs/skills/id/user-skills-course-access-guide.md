@@ -221,3 +221,39 @@ tags: []
 9. Jika ingin mengedit tugas yang sudah dikumpulkan, klik "EDIT ASSIGNMENT".
 
    ![](/img/8.9.png)
+
+
+
+### **Memahami Kursus (Subkonten Sesi Langsung)**
+
+1. Klik "Live Session Demo" untuk melihat contoh subkonten *live session*.
+2. Setelah memastikan judul, tanggal, waktu, durasi, dan deskripsi *live session* benar, klik "Join" untuk mengikuti *live session*.
+3. Klik "Join meeting" untuk memasuki ruang virtual *live session*.
+4. Setelah mengikuti *live session*, halaman subkonten *live session* akan memberikan status "Joined" yang berarti *live session* sudah diikuti.
+
+
+
+### **Memahami Kursus (Subkonten Quiz)**
+
+1. Klik "Quiz Demo" untuk melihat contoh subkonten *quiz*.
+2. Halaman subkonten quiz akan menunjukkan jumlah pertanyaan, metode penilaian, percobaan pengerjaan yang dibolehkan, skor minimum, hingga durasi pengerjaan kuis.
+3. Klik “TAKE QUIZ” untuk mulai mengerjakan kuis.
+4. Sebelum diarahkan ke halaman kuis, akan muncul *pop-up* yang mengingatkan jumlah percobaan pengerjaan, mengingatkan untuk selalu teliti dalam mengerjakan soal, mengingatkan untuk selalu berada di halaman kuis, serta mengklik “SUBMIT” di akhir pengerjaan agar jawaban terekam.
+5. Klik “CONTINUE” jika peringatan *pop-up* sudah dipahami.
+6. Halaman kuis akan menunjukkan judul kuis di atas dan banyaknya soal di bawahnya. Isian jawaban bulat (*bullet*) berarti soal yang dikerjakan merupakan *single choice* (pilihan tunggal). Klik salah satu pilihan jawaban untuk mengunci jawaban (isian bulat akan terisi menjadi merah). Klik "Leave" untuk meninggalkan halaman kuis.
+7. Klik ikon panah di samping “Next” untuk mengakses soal kuis selanjutnya. Soal kuis selanjutnya juga dapat diakses dengan menekan nomor soal di bawah judul kuis.
+8. Isian jawaban kotak (*square*) berarti soal yang dikerjakan merupakan *multiple choices* (pilihan ganda).
+9. Klik salah satu atau lebih pilihan jawaban untuk mengunci jawaban (isian kotak akan terisi menjadi merah).
+10. Klik ikon panah di samping “Next” untuk mengakses soal kuis selanjutnya. Soal kuis selanjutnya juga dapat diakses dengan menekan nomor soal di bawah judul kuis.
+11. Isian jawaban *true* atau *false* berarti soal yang dikerjakan merupakan benar/salah.
+12. Klik salah satu pilihan jawaban untuk mengunci jawaban (isian bulat akan terisi menjadi merah).
+13. Setelah semua kuis dikerjakan, klik “PREVIEW & SUBMIT” untuk melihat kembali jawaban yang sudah diisi sebelum mengirimnya.
+14. Halaman preview kuis akan menunjukkan jumlah soal dan status pengerjaannya.
+15. Klik “RETURN TO QUIZ” untuk kembali mengerjakan kuis dan klik “SUBMIT” untuk mengirimkan jawaban.
+16. Setelah mengklik “SUBMIT”, akan muncul *pop-up final submission* yang memperingatkan apakah pengiriman jawaban yang dilakukan sudah pasti. Klik “SUBMIT” untuk mengirimkan jawaban.
+17. Setelah mengklik "SUBMIT", akan muncul *pop-up quiz finished* yang menjelaskan kalau seluruh kuis sudah dikerjakan dan hasil kuis sudah dapat dicek.
+18. Setelah mengerjakan kuis, halaman subkonten *quiz* akan menunjukkan status pengerjaan. Status "Passed" berarti lulus dan skor yang didapat sudah melampaui skor minimum.
+19. Skor yang didapat bisa dilihat di bawah "Your Score".
+20. Klik "Review" untuk melihat kuis yang sudah dikerjakan sebelumnya.
+21. Halaman kuis yang sudah dikerjakan akan menunjukkan status dari tiap soal yang diisi. Status "Correct" di atas halaman berarti jawaban benar. Pilihan jawaban yang disorot warna hijau berarti merupakan jawaban yang benar.
+22. Setelah mengecek keseluruhan kuis yang sudah dilakukan, klik "Leave" untuk meninggalkan halaman kuis.
