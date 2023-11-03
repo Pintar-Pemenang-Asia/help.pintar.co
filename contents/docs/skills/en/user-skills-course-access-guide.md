@@ -222,16 +222,22 @@ tags: []
 
    ![](/img/8.9.png)
 
-
-
 ### **Understanding the Course (Live Session Subcontent)**
 
 1. Click "Live Session Demo" to see an example of live session subcontent.
+
+   ![](/img/9.1.png)
 2. After ensuring the title, date, time, duration, and description of the live session are correct, click "Join" to join the live session.
+
+   ![](/img/9.2.png)
 3. Click "Join meeting" to enter the virtual live session room.
+
+   ![](/img/9.31.png)
+
+   ![](/img/9.32.png)
 4. After participating in a live session, the live session subcontent page will give the status "Joined" which means the live session has been attended.
 
-
+   ![](/img/9.4.png)
 
 ### **Understanding the Course (Quiz Subcontent)**
 

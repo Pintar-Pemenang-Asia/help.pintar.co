@@ -222,16 +222,22 @@ tags: []
 
    ![](/img/8.9.png)
 
-
-
 ### **Memahami Kursus (Subkonten Sesi Langsung)**
 
 1. Klik "Live Session Demo" untuk melihat contoh subkonten *live session*.
+
+   ![](/img/9.1.png)
 2. Setelah memastikan judul, tanggal, waktu, durasi, dan deskripsi *live session* benar, klik "Join" untuk mengikuti *live session*.
+
+   ![](/img/9.2.png)
 3. Klik "Join meeting" untuk memasuki ruang virtual *live session*.
+
+   ![](/img/9.31.png)
+
+   ![](/img/9.32.png)
 4. Setelah mengikuti *live session*, halaman subkonten *live session* akan memberikan status "Joined" yang berarti *live session* sudah diikuti.
 
-
+   ![](/img/9.4.png)
 
 ### **Memahami Kursus (Subkonten Quiz)**
 
