@@ -317,3 +317,29 @@ tags: []
 22. Setelah mengecek keseluruhan kuis yang sudah dilakukan, klik "Leave" untuk meninggalkan halaman kuis.
 
     ![](/img/10.22.png)
+
+
+
+## **Memahami Kursus (Course Content)**
+
+1. Ketika seluruh subkonten dari konten kursus pertama sudah selesai, tutup konten kursus pertama dan mulai lanjutkan konten kursus kedua.
+
+   ![](/img/11.1.png)
+2. Pastikan seluruh subkonten dari konten kursus pertama sudah diselesaikan karena kursus dapat diatur sebagai *access learning sequentially*, yakni mengunci akses konten selanjutnya sebelum menyelesaikan konten yang sedang ada.
+
+   ![](/img/11.2.png)
+
+
+
+## **Memahami Kursus (Catatan)**
+
+1. Klik "Notes" untuk melihat catatan-catatan yang ditulis selama pembelajaran kursus.
+
+   ![](/img/12.1.png)
+2. Halaman "Notes" akan menunjukkan catatan yang dilakukan sepanjang kursus berdasarkan konten kursusnya, subkontennya, sampai di detik/halaman berapa catatan tersebut ditulis.
+
+   ![](/img/12.2.png)
+
+   ![](/img/12.21.png)
+
+   ![](/img/12.22.png)

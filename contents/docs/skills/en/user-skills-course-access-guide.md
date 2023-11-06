@@ -317,3 +317,29 @@ tags: []
 22. After checking all the quizzes that have been taken, click "Leave" to leave the quiz page.
 
     ![](/img/10.22.png)
+
+
+
+## **Understanding the Course (Course Content)**
+
+1. When all the subcontent of the first-course content are complete, close the first course content and start continuing the second course content.
+
+   ![](/img/11.1.png)
+2. Ensure all subcontent of the first course content have been completed because the course can be set as *access learning sequentially*, that is, locking access to the next content before completing the current content.
+
+   ![](/img/11.2.png)
+
+
+
+## **Understanding the Course (Notes)**
+
+1. Click "Notes" to view notes written during course study.
+
+   ![](/img/12.1.png)
+2. The "Notes" page will show notes taken throughout the course based on its course content, subcontent, and the minute/page that notes were written.
+
+   ![](/img/12.2.png)
+
+   ![](/img/12.21.png)
+
+   ![](/img/12.22.png)
