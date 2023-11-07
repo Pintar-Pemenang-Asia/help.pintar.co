@@ -28,7 +28,7 @@ const config = {
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
+    defaultLocale: 'id',
     locales: ['en', 'id'],
     localeConfigs: {
       id: {
@@ -47,8 +47,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/Pintar-Pemenang-Asia/help.pintar.co/blob/main',
+          // editUrl: 'https://github.com/Pintar-Pemenang-Asia/help.pintar.co/blob/main',
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
         },
@@ -56,8 +55,7 @@ const config = {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/Pintar-Pemenang-Asia/help.pintar.co/blob/main/',
+          // editUrl: 'https://github.com/Pintar-Pemenang-Asia/help.pintar.co/blob/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
