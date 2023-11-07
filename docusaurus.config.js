@@ -114,11 +114,6 @@ const config = {
             type: 'localeDropdown',
             position: 'right',
           },
-          {
-            href: 'https://github.com/Pintar-Pemenang-Asia/help.pintar.co',
-            label: 'GitHub',
-            position: 'right',
-          },
         ],
       },
       footer: {
