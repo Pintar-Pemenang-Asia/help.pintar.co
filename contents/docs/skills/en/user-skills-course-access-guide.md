@@ -318,8 +318,6 @@ tags: []
 
     ![](/img/10.22.png)
 
-
-
 ## **Understanding the Course (Course Content)**
 
 1. When all the subcontent of the first-course content are complete, close the first course content and start continuing the second course content.
@@ -328,8 +326,6 @@ tags: []
 2. Ensure all subcontent of the first course content have been completed because the course can be set as *access learning sequentially*, that is, locking access to the next content before completing the current content.
 
    ![](/img/11.2.png)
-
-
 
 ## **Understanding the Course (Notes)**
 
@@ -343,3 +339,26 @@ tags: []
    ![](/img/12.21.png)
 
    ![](/img/12.22.png)
+
+
+
+## **Understanding the Course (Forum)**
+
+1. Click "Forum" to access the forum page of the course you are taking.
+2. The "Forum" page will be divided into recent forums and popular forums.
+3. Click "Recent" or "Popular" to access one of them.
+4. Click "+ ADD THREAD" to add discussion to the forum.
+5. Type the discussion title in "Discussion Title".
+6. Type the contents of the discussion in the "Description Title".
+7. If the discussion you want to submit to the forum is appropriate, click "POST".
+8. When the discussion is successfully published, the notification "Thread successfully added" will appear. Click the like icon to like the discussion. Click the chat icon to add a comment.
+
+
+
+## **Contacting Helpline**
+
+1. Click "Talk to Us" to contact customer service if you experience problems accessing the course.
+2. Enter your name and email to access the service.
+3. After filling in, click "Next" to connect with the Live Chat admin.
+4. Type the problem you are experiencing in the column provided.
+5. When the problem has been typed, click the airplane icon to send the constraint and start interacting with the service.

@@ -318,8 +318,6 @@ tags: []
 
     ![](/img/10.22.png)
 
-
-
 ## **Memahami Kursus (Course Content)**
 
 1. Ketika seluruh subkonten dari konten kursus pertama sudah selesai, tutup konten kursus pertama dan mulai lanjutkan konten kursus kedua.
@@ -328,8 +326,6 @@ tags: []
 2. Pastikan seluruh subkonten dari konten kursus pertama sudah diselesaikan karena kursus dapat diatur sebagai *access learning sequentially*, yakni mengunci akses konten selanjutnya sebelum menyelesaikan konten yang sedang ada.
 
    ![](/img/11.2.png)
-
-
 
 ## **Memahami Kursus (Catatan)**
 
@@ -343,3 +339,26 @@ tags: []
    ![](/img/12.21.png)
 
    ![](/img/12.22.png)
+
+
+
+## **Memahami Kursus (Forum)**
+
+1. Klik "Forum" untuk mengakses halaman forum dari kursus yang diikuti.
+2. Halaman "Forum" akan terbagi menjadi, yakni forum terkini (*recent*) dan forum populer (*popular*).
+3. Klik "Recent" atau "Populer" untuk mengakses salah satunya.
+4. Klik "+ ADD THREAD" untuk menambah diskusi pada forum.
+5. Ketik judul diskusi pada "Title Discussion".
+6. Ketik isi diskusi pada "Description Title".
+7. Apabila diskusi yang ingin diajukan pada forum sudah sesuai, klik "POST".
+8. Ketika diskusi berhasil diterbitkan, notifikasi "Thread succesfully added" akan muncul. Klik ikon *like* untuk menyukai diskusi. Klik ikon *chat* untuk menambahkan komentar.
+
+
+
+## **Menghubungi Bantuan**
+
+1. Klik "Talk to Us" untuk menghubungi *customer service* jika mengalami kendala ketika mengakses kursus.
+2. Masukkan nama dan *email* untuk mengakses layanan.
+3. Setelah mengisi, klik "Next" untuk terhubung dengan admin Live Chat.
+4. Ketik kendala yang dialami pada kolom yang disediakan.
+5. Jika pengetikkan sudah selesai, klik ikon pesawat untuk mengirim kendala dan mulai berinteraksi dengan layanan.
