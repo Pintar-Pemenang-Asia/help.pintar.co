@@ -340,25 +340,47 @@ tags: []
 
    ![](/img/12.22.png)
 
-
-
 ## **Memahami Kursus (Forum)**
 
 1. Klik "Forum" untuk mengakses halaman forum dari kursus yang diikuti.
+
+   ![](/img/13.1.png)
 2. Halaman "Forum" akan terbagi menjadi, yakni forum terkini (*recent*) dan forum populer (*popular*).
+
+   ![](/img/13.2.png)
 3. Klik "Recent" atau "Populer" untuk mengakses salah satunya.
+
+   ![](/img/13.3.png)
 4. Klik "+ ADD THREAD" untuk menambah diskusi pada forum.
+
+   ![](/img/13.4.png)
 5. Ketik judul diskusi pada "Title Discussion".
+
+   ![](/img/13.5.png)
 6. Ketik isi diskusi pada "Description Title".
+
+   ![](/img/13.6.png)
 7. Apabila diskusi yang ingin diajukan pada forum sudah sesuai, klik "POST".
+
+   ![](/img/13.7.png)
 8. Ketika diskusi berhasil diterbitkan, notifikasi "Thread succesfully added" akan muncul. Klik ikon *like* untuk menyukai diskusi. Klik ikon *chat* untuk menambahkan komentar.
 
-
+   ![](/img/13.8.png)
 
 ## **Menghubungi Bantuan**
 
 1. Klik "Talk to Us" untuk menghubungi *customer service* jika mengalami kendala ketika mengakses kursus.
+
+   ![](/img/14.1.png)
 2. Masukkan nama dan *email* untuk mengakses layanan.
+
+   ![](/img/14.2.png)
 3. Setelah mengisi, klik "Next" untuk terhubung dengan admin Live Chat.
+
+   ![](/img/14.3.png)
 4. Ketik kendala yang dialami pada kolom yang disediakan.
+
+   ![](/img/14.4.png)
 5. Jika pengetikkan sudah selesai, klik ikon pesawat untuk mengirim kendala dan mulai berinteraksi dengan layanan.
+
+   ![](/img/14.5.png)

@@ -340,25 +340,47 @@ tags: []
 
    ![](/img/12.22.png)
 
-
-
 ## **Understanding the Course (Forum)**
 
 1. Click "Forum" to access the forum page of the course you are taking.
+
+   ![](/img/13.1.png)
 2. The "Forum" page will be divided into recent forums and popular forums.
+
+   ![](/img/13.2.png)
 3. Click "Recent" or "Popular" to access one of them.
+
+   ![](/img/13.3.png)
 4. Click "+ ADD THREAD" to add discussion to the forum.
+
+   ![](/img/13.4.png)
 5. Type the discussion title in "Discussion Title".
+
+   ![](/img/13.5.png)
 6. Type the contents of the discussion in the "Description Title".
-7. If the discussion you want to submit to the forum is appropriate, click "POST".
+
+   ![](/img/13.6.png)
+7. If the discussion you want to submit to the forum is satisfactory, click "POST".
+
+   ![](/img/13.7.png)
 8. When the discussion is successfully published, the notification "Thread successfully added" will appear. Click the like icon to like the discussion. Click the chat icon to add a comment.
 
-
+   ![](/img/13.8.png)
 
 ## **Contacting Helpline**
 
 1. Click "Talk to Us" to contact customer service if you experience problems accessing the course.
+
+   ![](/img/14.1.png)
 2. Enter your name and email to access the service.
+
+   ![](/img/14.2.png)
 3. After filling in, click "Next" to connect with the Live Chat admin.
+
+   ![](/img/14.3.png)
 4. Type the problem you are experiencing in the column provided.
-5. When the problem has been typed, click the airplane icon to send the constraint and start interacting with the service.
+
+   ![](/img/14.4.png)
+5. When the problem has been typed, click the airplane icon to send it and start interacting with the service.
+
+   ![](/img/14.5.png)
