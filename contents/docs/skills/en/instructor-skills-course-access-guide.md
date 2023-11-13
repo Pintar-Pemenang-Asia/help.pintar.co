@@ -6,7 +6,7 @@ sidebar_position: 3
 
 1. After logging in to skills.pintar.co, click on the profile to go to the program you are enrolling in.
 
-
+   ![]()
 
 ## **Understanding Course (Overview)**
 

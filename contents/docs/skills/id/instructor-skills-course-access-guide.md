@@ -6,7 +6,7 @@ sidebar_position: 3
 
 1. Setelah login di skills.pintar.co, klik profile untuk menuju program yang diikuti.
 
-
+   ![]()
 
 ## **Memahami Kursus (Overview)**
 
