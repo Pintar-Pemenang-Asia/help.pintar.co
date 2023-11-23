@@ -9,7 +9,7 @@ backend:
     update: Update {{collection}} “{{slug}}”
     delete: Delete {{collection}} “{{slug}}”
     uploadMedia: Upload “{{path}}" [skip ci]
-    deleteMedia: Delete “{{path}}”
+    deleteMedia: Delete “{{path}}” [skip ci]
     openAuthoring: '{{message}}'
 
 # These lines should *not* be indented
