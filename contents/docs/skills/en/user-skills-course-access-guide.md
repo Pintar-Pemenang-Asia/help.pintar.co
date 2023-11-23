@@ -7,7 +7,6 @@ tags: []
 
 1. After logging in to skills.pintar.co, click on the profile to go to the program you are enrolling in.
 
-   ![](/img/1.1.png)
 2. Click "My Programs" to see the programs you are enrolling in.
 
    ![](/img/1.2.png)

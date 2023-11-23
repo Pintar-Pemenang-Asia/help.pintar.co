@@ -7,7 +7,6 @@ tags: []
 
 1. Setelah *login* di skills.pintar.co, klik *profile* untuk menuju program yang diikuti.
 
-   ![](/img/1.1.png)
 2. Klik "My Programs" untuk melihat program yang diikuti.
 
    ![](/img/1.2.png)

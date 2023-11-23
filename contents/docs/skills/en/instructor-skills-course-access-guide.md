@@ -6,8 +6,6 @@ sidebar_position: 3
 
 1. After logging in to skills.pintar.co, click on the profile to go to the program you are enrolling in.
 
-   ![]()
-
 ## **Understanding Course (Overview)**
 
 1. See "Overview" to find out detailed information about the course you are taking and "Description" for a description of the course you are taking.
