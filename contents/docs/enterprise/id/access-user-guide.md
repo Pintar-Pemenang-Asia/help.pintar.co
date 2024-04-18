@@ -163,19 +163,31 @@ Fitur ini berguna untuk Peserta dalam memperbesar layar video. Peserta dapat leb
 
 * Catatan (DARI SINI!!!!!)
 
-Dalam fitur Notes ini, masing – masing peserta mempunyai fitur tersebut guna untuk membantu peserta mencatat bagian – bagian penting mana saja saat sedang melakukan pemutaran video agar lebih mudah dan tersimpan rapi. Peserta juga dapat mengedit notes yang sudah disimpan. Dalam fitur notes ini, hanya diperuntukkan dan dapat dilihat oleh setiap Peserta, tidak akan bisa terlihat oleh Peserta lainnya.
+![](/img/notes_1.2.png)
 
-![](/img/video_1.1.png)
+Dalam fitur Catatan ini, masing – masing peserta mempunyai fitur tersebut guna untuk membantu peserta mencatat bagian – bagian penting mana saja saat sedang melakukan pemutaran video agar lebih mudah dan tersimpan rapi. 
+
+1. Tambah Catatan: Peserta dapat menambahkan catatan penting pada kolom ini. Catatan yang di input akan otomatis muncul dibawahnya. Peserta dapat menambahkan catatan sebanyak yang diinginkan.
+
+2. Edit dan Delete Notes: Peserta dapat mengedit dan menghapus catatan yang sudah disimpan. Dalam fitur notes ini, hanya diperuntukkan dan dapat dilihat oleh setiap Peserta, tidak akan bisa terlihat oleh Peserta lainnya.
+
+3. Jumlah Notes: Pada poin nomor 3, Peserta dapat melihat jumlah catatan yang telah di input
+
+4. Durasi Notes: Pada poin nomor 4, Peserta dapat melihat durasi waktu catatan dirilis
+
+![](/img/notes_1.4.png)
 
 * Komentar
 
-Berbeda dengan fitur notes yang hanya untuk tiap masing – masing Peserta. Dalam fitur ini, Comments digunakan untuk setiap Peserta mengomentari Video yang ditampilkan oleh Pengajar dalam sesi belajar. Seperti layaknya menulis komentar di kanal media sosial jika tidak mengerti bagian isi video seperti contoh yang berada dibawah ini.
+Berbeda dengan fitur notes yang hanya untuk tiap masing – masing Peserta. Dalam fitur ini, Komentar digunakan untuk setiap Peserta mengomentari Video yang ditampilkan oleh Pengajar dalam sesi belajar. Seperti layaknya menulis komentar di kanal media sosial jika tidak mengerti bagian isi video seperti contoh yang berada dibawah ini.
 
-![](/img/p.png)
+![](/img/comment_1.1.png)
 
-b. Quiz (GAMBAR)
+![](/img/comment_1.2.png)
 
-Dalam bagian ini terlihat tampilan depan jika Peserta akan mengerjakan Quiz. Dalam dilihat tampilan yang menunjukan banyaknya jumlah pertanyaan, durasi quiz, nilai minimum, metode penilaian yang diambil berdasarkan nilai terakhir, sisa pengulangan quiz dan tombol memulai quiz.
+b. Quiz (Gambar Tampilan Awal blum)
+
+Dalam bagian ini terlihat tampilan depan jika Peserta akan mengerjakan Quiz. Dalam dilihat tampilan yang menunjukan banyaknya jumlah pertanyaan, durasi quiz, nilai minimum, metode penilaian yang diambil, sisa pengulangan quiz dan tombol memulai quiz.
 
 ![](/img/Enterprise-LMS-Video_1.1.png)
 
@@ -185,7 +197,7 @@ Pada tampilan Last Attempt ini berisi total atau sisa Peserta dapat mengerjakan 
 
 > NOTE : Setiap kali Peserta klik “take quiz” atau “retake quiz”, maka jumlah attempt akan otomatis berkurang. Meskipun Peserta tidak menyelesaikan seluruh soal quiz atau submit atau keluar dari halaman quiz tanpa menyelesaikan, jumlah attempt akan tetap berkurang.
 
-![](/img/z.png)
+![](/img/quiz_1.5.png)
 
 * Isi Quiz
 
@@ -199,25 +211,25 @@ Pada gambar dibawah ini menampilkan isi quiz yang telah disediakan oleh Pengajar
 
 
 
-![](/img/a.png)
+![](/img/quiz_1.6.png)
 
 * Summary Preview
 
 Pada bagian ini akan menunjukkan tampilan dimana Peserta sudah mengisi ke 5 pertanyaan yang sudah diberikan. Untuk di bagian pojok kiri bawah, Peserta dapat kembali untuk merubah jawaban jika ada yang kurang tepat sebelum submit. Kemudian jika sudah dipastikan benar dan yakin dengan jawaban yang telah diisi, maka langsung klik bagian submit.
 
-![](/img/b.png)
+![](/img/quiz_1.9.png)
 
 * Final Submission
 
 Bagian ini Peserta diharapkan untuk dapat memastikan kembali apakah jawaban sudah benar sebelum submit.
 
-![](/img/c.png)
+![](/img/quiz_1.8.png)
 
 * Score 
 
 Jika sudah submit maka akan muncul tampilan Score, dan Retake.
 
-![](/img/d.jpg)
+![](/img/quiz_1.4.png)
 
 c. Document
 
@@ -239,18 +251,30 @@ Peserta sudah masuk kedalam room Live Session dengan tampilan berikut:
 
 2. Nilai
 
-* Pada bagian Nilai menampilkan nilai akhir, peringkat dan komponen nilai. Peserta juga dapat melihat detail peringkat beserta nilai akhirnya. Peserta juga dapat mencari berdasarkan nama.
+![](/img/grade_1.1.png)
 
-![](/img/h.png)
+Pada bagian Nilai menampilkan nilai akhir, peringkat dan komponen nilai. 
+
+![](/img/grade_1.2-1.png)
+
+Peserta juga dapat melihat detail peringkat beserta nilai akhirnya. Peserta juga dapat mencari berdasarkan nama.
+
+![](/img/grade_1.2.png)
+
+![](/img/grade_1.3.png)
 
 3. Catatan
 
-* Notes yang ditampilkan pada kolom ini merupakan Notes atau catatan yang sudah Peserta catat pada tiap bagian materi. Seperti contoh dibawah ini:
+![](/img/notes_1.1.png)
 
-![](/img/f.jpg)
+Notes yang ditampilkan pada kolom ini merupakan Notes atau catatan yang sudah Peserta catat pada tiap bagian materi. Seperti contoh dibawah ini:
+
+![](/img/notes_1.5.png)
 
 4. Forum
 
+![](/img/forum_1.1.png)
+
 Pada bagian ini menampilkan bagian forum untuk sesama Peserta dapat berinteraksi mengenai pembahasan kelas yang diberikan oleh Pengajar. Seperti contoh pada gambar dibawah ini:
 
-![](/img/g.jpg)
+![](/img/forum_1.2.png)
