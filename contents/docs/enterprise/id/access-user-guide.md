@@ -10,7 +10,7 @@ sidebar_position: 2
 
 ![](/img/Enterprise-LMS-Login_1.1.png)
 
-Untuk Login ke LMS,lakukan cara berikut:
+Untuk Login ke LMS, lakukan cara berikut:
 
 1. Masuk ke URL (https://enterprise.pintar.co/en/sign-in)
 2. Masukan email pada kolom Email.
@@ -44,13 +44,13 @@ Setelah klik View Profile, maka akan muncul seperti gambar di bawah ini
 ## BAGIAN 3: EDIT BIODATA
 
 1. Jika peserta sudah mengisi data lengkap Pribadi, maka peserta bisa mengisi pada bagian halaman Edit Profile yang disediakan, untuk pengisian skill, experience, education, license & certificate.
-2. Setelah melengkapi, maka peserta bisa klik bar disamping bagian edit profile yaitu export to pdf jika ingin data tersebut dijadikan Resume seperti tampilan pada Gambar 6 berikut.
+2. Setelah melengkapi, maka peserta bisa klik bar disamping bagian edit profile yaitu export to pdf jika ingin data tersebut dijadikan Resume seperti tampilan berikut
 
 ![](/img/Enterprise-LMS-Edit-Profile_1.3.png)
 
 ## BAGIAN 4: MENU DASHBOARD
 
-Pada Bagian menu Dashboard ini akan berisi sub menu yang dapat dilihat pada bagian gambar 7, yang berisi current activity, finished course dan juga progress.
+Pada Bagian menu Dashboard ini akan berisi sub menu yang berisi current activity, finished course dan juga progress.
 
 ### 1. Progress
 
@@ -66,7 +66,7 @@ Bagian ini menunjukkan total jam keseluruhan Peserta dalam kelas yang diikuti.
 
 Bagian ini berisi tugas – tugas yang sudah dikerjakan oleh para Peserta.
 
-a. Unfinished Assignment : Bagian ini berada pada sisi bar sebelah kanan yang berupa catatan atau pemberitahuan bahwa Peserta belum atau perlu mengerjakan Tugas.
+a. Tugas Yang Belum Dikerjakan : Bagian ini berada pada sisi bar sebelah kanan yang berupa catatan atau pemberitahuan bahwa Peserta belum atau perlu mengerjakan Tugas.
 
 ![](/img/Enterprise-LMS-Dashboard_1.4.png)
 
@@ -78,7 +78,11 @@ c. Acara Akan Datang : Bagian ini berada pada sisi bar sebelah kanan yang berupa
 
 ![](/img/Enterprise-LMS-Dashboard_1.6.png)
 
-d. Bagian ini menunjukkan progress dan judul – judul kelas yang sedang dikerjakan. Perbedaan dengan point 1 yaitu Progress adalah, pada tampilan tersebut. Peserta bisa langsung klik judul kursus yang akan langsung direct ke dalam isi course tersebut.
+### 4. Aktivitas
+
+Bagian ini menunjukkan progress dan judul – judul kelas yang sedang dikerjakan. Perbedaan dengan point 1 yaitu Progress adalah, pada tampilan tersebut. Peserta bisa langsung klik judul kursus yang akan langsung direct ke dalam isi course tersebut.
+
+* Aktivitas Kursus
 
 1. Judul Kursus : Bagian ini merupakan judul - judul kelas yang sedang dikerjakan. Peserta dapat klik judulnya dan akan langsung diarahkan kedalam isi kursus tersebut.
 2. Tipe : Bagian ini merupakan tipe dari pengerjaan kursus tersebut.
@@ -87,7 +91,7 @@ d. Bagian ini menunjukkan progress dan judul – judul kelas yang sedang dikerja
 
 ![](/img/Enterprise-LMS-Dashboard_1.2.png)
 
-e. Riwayat Kursus
+* Riwayat Kursus
 
 Bagian ini akan menampilkan course yang peserta sudah selesai kerjakan.
 
@@ -220,6 +224,18 @@ c. Document
 Dalam fitur ini, peserta dapat membaca materi yang diberikan oleh Pengajar yang juga materi tersebut dapat dilihat secara full screen atau bisa di download jika Peserta ingin bisa membaca materi pelatihan tanpa membuka LMS. Dalam fitur document ini juga mempunyai bagian Notes dan Comment sama dengan fitur – fitur sebelumnya.
 
 ![](/img/e.png)
+
+d. Live Session
+
+Pada bagian Live Session ini digunakan oleh para peserta untuk mengikuti jadwal kelas yang akan diadakan oleh para Instruktur/fasilitator yang memfasilitasi. Bagian live session ini terdapat dibagian paling terakhir sesuai dibagian mana instruktur assign live session tersebut. Bagian Live session berada di sisi sebelah kiri dan kemudian bisa melanjutkan untuk klik bagian tersebut.
+
+![](/img/j.png)
+
+Jika sudah, Peserta bisa langsung untuk klik bagian join dan bisa untuk langsung masuk ke dalam room Live Session.
+
+Peserta sudah masuk kedalam room Live Session dengan tampilan berikut:
+
+![](/img/k.png)
 
 2. Nilai
 
