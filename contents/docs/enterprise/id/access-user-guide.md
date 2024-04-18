@@ -15,7 +15,8 @@ Untuk Login ke LMS,lakukan cara berikut:
 1. Masuk ke URL (https://enterprise.pintar.co/en/sign-in)
 2. Masukan email pada kolom Email.
 3. Masukan kata sandi pada kolom Password.
-4. Klik tombol Login.
+4. Masukan provider sesuai dengan peserta ikuti pada kolom Company name.
+5. Klik tombol Login.
 
 ![](/img/Enterprise-LMS-Login_1.2.png)
 
@@ -118,7 +119,7 @@ Peserta yang sudah memilih jenis kursus atau kelas yang diinginkan, kemudian kli
 
 ![](/img/Enterprise-LMS-My-Course_1.3.png)
 
-### 4. Deskripsi dan isi konten
+### 4. Deskripsi dan Isi Konten
 
 Jika sudah klik bagian enroll now dan start, kemudian akan muncul tampilan seperti dibawah ini yang akan menampilkan akses materi kelas yang peserta sedang/atau ingin jalankan.
 Bisa terlihat pada tampilan dibawah ini, yang menunjukan overview dan course content, kemudian di table bar bagian pojok kanan atas terlihat Progress Bar yang akan menunjukkan sejauh mana kelas yang peserta sedang jalankan.
@@ -131,7 +132,7 @@ Bisa terlihat pada tampilan dibawah ini, yang menunjukan overview dan course con
 
 2. Isi Content
 
-* Video
+a. Video
 
 Pada bagian Video ini, peserta dapat membuka tampilan video dengan Full screen, dan juga dapat mengatur resolusi video yang ditampilkan.
 Untuk fitur video ini, Peserta tidak dapat melakukan percepatan video, dikarenakan jika peserta menarik kursor untuk mempercepat video. Maka akan kembali ke durasi awal dimana Peserta terakhir berhenti menonton.
@@ -156,17 +157,21 @@ Fitur ini berguna untuk Peserta dalam memperbesar layar video. Peserta dapat leb
 
 ![](/img/Enterprise-LMS-Video_1.4.png)
 
-* Notes
+* Catatan (DARI SINI!!!!!)
 
 Dalam fitur Notes ini, masing – masing peserta mempunyai fitur tersebut guna untuk membantu peserta mencatat bagian – bagian penting mana saja saat sedang melakukan pemutaran video agar lebih mudah dan tersimpan rapi. Peserta juga dapat mengedit notes yang sudah disimpan. Dalam fitur notes ini, hanya diperuntukkan dan dapat dilihat oleh setiap Peserta, tidak akan bisa terlihat oleh Peserta lainnya.
 
-* Comments
+![](/img/video_1.1.png)
+
+* Komentar
 
 Berbeda dengan fitur notes yang hanya untuk tiap masing – masing Peserta. Dalam fitur ini, Comments digunakan untuk setiap Peserta mengomentari Video yang ditampilkan oleh Pengajar dalam sesi belajar. Seperti layaknya menulis komentar di kanal media sosial jika tidak mengerti bagian isi video seperti contoh yang berada dibawah ini.
 
-3. Quiz
+![](/img/p.png)
 
-Dalam bagian ini terlihat tampilan depan jika Peserta akan mengerjakan Quiz. Dalam bagian ini terlihat beberapa tampilan yang menunjukan banyaknya jumlah pertanyaan, durasi quiz, nilai minimum, metode penilaian yang diambil berdasarkan nilai terakhir, sisa pengulangan quiz dan tombol memulai quiz.
+b. Quiz (GAMBAR)
+
+Dalam bagian ini terlihat tampilan depan jika Peserta akan mengerjakan Quiz. Dalam dilihat tampilan yang menunjukan banyaknya jumlah pertanyaan, durasi quiz, nilai minimum, metode penilaian yang diambil berdasarkan nilai terakhir, sisa pengulangan quiz dan tombol memulai quiz.
 
 ![](/img/Enterprise-LMS-Video_1.1.png)
 
@@ -176,6 +181,60 @@ Pada tampilan Last Attempt ini berisi total atau sisa Peserta dapat mengerjakan 
 
 > NOTE : Setiap kali Peserta klik “take quiz” atau “retake quiz”, maka jumlah attempt akan otomatis berkurang. Meskipun Peserta tidak menyelesaikan seluruh soal quiz atau submit atau keluar dari halaman quiz tanpa menyelesaikan, jumlah attempt akan tetap berkurang.
 
+![](/img/z.png)
+
 * Isi Quiz
 
-Pada gambar dibawah ini menampilkan isi quiz yang telah disediakan oleh Pengajar, dengan contoh sebanyak 5 pertanyaan dan dengan pilihan ganda. Jumlah pertanyaan akan disesuaikan oleh Pengajar dan akan berbeda di setiap kelas atau materi yang diberikan,
+Pada gambar dibawah ini menampilkan isi quiz yang telah disediakan oleh Pengajar, dengan contoh sebanyak 5 pertanyaan dan dengan pilihan ganda. Jumlah pertanyaan akan disesuaikan oleh Pengajar dan akan berbeda di setiap kelas atau materi yang diberikan.
+
+\*Dapat dilihat di pojok kanan atas yang berwarna Hijau menunjukan durasi pengerjaan yang telah diberikan oleh pengajar untuk peserta mengerjakan quiz tersebut.
+
+\*Di kolom paling bawah sebelah kiri untuk previous untuk Peserta bisa mengecek ulang jika takut ada pertanyaan yang terlewat.
+
+\*Dan di kolom pojok kanan bawah terdapat Preview & submit yang akan mengantarkan Peserta untuk mensubmit quiz tersebut.
+
+
+
+![](/img/a.png)
+
+* Summary Preview
+
+Pada bagian ini akan menunjukkan tampilan dimana Peserta sudah mengisi ke 5 pertanyaan yang sudah diberikan. Untuk di bagian pojok kiri bawah, Peserta dapat kembali untuk merubah jawaban jika ada yang kurang tepat sebelum submit. Kemudian jika sudah dipastikan benar dan yakin dengan jawaban yang telah diisi, maka langsung klik bagian submit.
+
+![](/img/b.png)
+
+* Final Submission
+
+Bagian ini Peserta diharapkan untuk dapat memastikan kembali apakah jawaban sudah benar sebelum submit.
+
+![](/img/c.png)
+
+* Score 
+
+Jika sudah submit maka akan muncul tampilan Score, dan Retake.
+
+![](/img/d.jpg)
+
+c. Document
+
+Dalam fitur ini, peserta dapat membaca materi yang diberikan oleh Pengajar yang juga materi tersebut dapat dilihat secara full screen atau bisa di download jika Peserta ingin bisa membaca materi pelatihan tanpa membuka LMS. Dalam fitur document ini juga mempunyai bagian Notes dan Comment sama dengan fitur – fitur sebelumnya.
+
+![](/img/e.png)
+
+2. Nilai
+
+* Pada bagian Nilai menampilkan nilai akhir, peringkat dan komponen nilai. Peserta juga dapat melihat detail peringkat beserta nilai akhirnya. Peserta juga dapat mencari berdasarkan nama.
+
+![](/img/h.png)
+
+3. Catatan
+
+* Notes yang ditampilkan pada kolom ini merupakan Notes atau catatan yang sudah Peserta catat pada tiap bagian materi. Seperti contoh dibawah ini:
+
+![](/img/f.jpg)
+
+4. Forum
+
+Pada bagian ini menampilkan bagian forum untuk sesama Peserta dapat berinteraksi mengenai pembahasan kelas yang diberikan oleh Pengajar. Seperti contoh pada gambar dibawah ini:
+
+![](/img/g.jpg)
