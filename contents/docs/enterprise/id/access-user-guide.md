@@ -107,21 +107,19 @@ Halaman ini akan terbagi menjadi 2 bagian yaitu All Course dan Catalogue. Yang m
 
 ![](/img/Enterprise-LMS-My-Course_1.1.png)
 
-### 1. Assigned
+### 1. Kursus Wajib
 
 berupa kelas yang memang khusus di assigned melalui Admin yang menjalankan Program tersebut.
 
 ![](/img/Enterprise-LMS-My-Course_1.2.png)
 
-### 2. Catalogue
+### 2. Katalog
 
 Bagian ini berisikan jenis – jenis kursus atau kelas yang sedang ditayangkan dan bisa Peserta pilih tanpa perlu Admin melakukan Assign.
 
 ### 3. Enroll now
 
 Peserta yang sudah memilih jenis kursus atau kelas yang diinginkan, kemudian klik tombol enroll now dan akan muncul tampilan seperti ini. Sebelum memulai kelas, peserta dapat memastikan Kembali bahwa kursus, judul, instruktur, durasi sudah sesuai dengan kelas yang ingin Peserta pelajari. Perhatikan tampilan berikut ini merupakan halaman awal sebelum peserta masuk kebagian inti kelas. Kemudian klik start dan masuk ke halaman kelas.
-
-![](/img/Enterprise-LMS-My-Course_1.3.png)
 
 ### 4. Deskripsi dan Isi Konten
 
