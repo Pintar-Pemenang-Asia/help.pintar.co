@@ -161,7 +161,7 @@ Fitur ini berguna untuk Peserta dalam memperbesar layar video. Peserta dapat leb
 
 ![](/img/Enterprise-LMS-Video_1.4.png)
 
-* Catatan (DARI SINI!!!!!)
+* Catatan (DARI SINI!!!!!) 
 
 ![](/img/notes_1.2.png)
 
@@ -185,11 +185,11 @@ Berbeda dengan fitur notes yang hanya untuk tiap masing – masing Peserta. Dala
 
 ![](/img/comment_1.2.png)
 
-b. Quiz (Gambar Tampilan Awal blum)
+b. Quiz 
 
 Dalam bagian ini terlihat tampilan depan jika Peserta akan mengerjakan Quiz. Dalam dilihat tampilan yang menunjukan banyaknya jumlah pertanyaan, durasi quiz, nilai minimum, metode penilaian yang diambil, sisa pengulangan quiz dan tombol memulai quiz.
 
-![](/img/Enterprise-LMS-Video_1.1.png)
+![](/img/quiz_1.1.png)
 
 * Last Attempt
 
@@ -235,7 +235,13 @@ c. Document
 
 Dalam fitur ini, peserta dapat membaca materi yang diberikan oleh Pengajar yang juga materi tersebut dapat dilihat secara full screen atau bisa di download jika Peserta ingin bisa membaca materi pelatihan tanpa membuka LMS. Dalam fitur document ini juga mempunyai bagian Notes dan Comment sama dengan fitur – fitur sebelumnya.
 
-![](/img/e.png)
+![](/img/document_1.3.png)
+
+![](/img/document_1.4.png)
+
+![](/img/document_1.1.png)
+
+![](/img/document_1.2.png)
 
 d. Live Session
 
@@ -278,3 +284,31 @@ Notes yang ditampilkan pada kolom ini merupakan Notes atau catatan yang sudah Pe
 Pada bagian ini menampilkan bagian forum untuk sesama Peserta dapat berinteraksi mengenai pembahasan kelas yang diberikan oleh Pengajar. Seperti contoh pada gambar dibawah ini:
 
 ![](/img/forum_1.2.png)
+
+## BAGIAN 6: POINT DAN REWARD
+
+Poin dan reward merupakan fitur yang didedikasikan untuk membuat pengguna lebih termotivasi untuk menyelesaikan aktivitas pembelajarannya. Berikut merupakan bagian-bagian dari fitur poin dan reward:
+
+* Poin
+
+Untuk mengeksplorasi fitur poin dan reward, pengguna bisa masuk melalui ikon poin yang bisa ditemukan ketika pengguna mengklik ikon profile. Lalu akan muncul tampilan sebagai berikut
+
+![](/img/reward_1.1.png)
+
+* Reward
+
+Setelah ikon poin di klik akan diarahkan ke tampilan reward. Berikut rinciannya:
+
+1. Reward Saya: Pada poin nomor 1, apabila Peserta mengklik ikon Reward Saya maka akan diarahkan ke page reward saya. Peserta dapat melihat detail dari reward meliputi cara penggunaan dan voucher cashback yang bisa ditukarkan.
+
+2. Riwayat Poin: Peserta dapat melihat poin-poin yang didapatkan maupun yang sudah ditukarkan secara keseluruhan
+
+3. Papan Peringkat: Pada poin nomor 3, Peserta dapat melihat tabel reward yang berisi jumlah poin dan peringkat. Peserta juga dapat melihat poin dan peringkat peserta lainnya dengan  mencari berdasarkan nama
+
+4. Tukarkan Poin: Peserta dapat melihat beraneka ragam reward yang tersedia dengan jumlah poin yang dapat ditukarkan
+
+![](/img/reward_1.2.png)
+
+![](/img/reward_1.4.png)
+
+![](/img/reward_1.3.png)
