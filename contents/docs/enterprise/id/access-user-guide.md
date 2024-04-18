@@ -117,9 +117,13 @@ berupa kelas yang memang khusus di assigned melalui Admin yang menjalankan Progr
 
 Bagian ini berisikan jenis – jenis kursus atau kelas yang sedang ditayangkan dan bisa Peserta pilih tanpa perlu Admin melakukan Assign.
 
+![](/img/aaaa.png)
+
 ### 3. Enroll now
 
 Peserta yang sudah memilih jenis kursus atau kelas yang diinginkan, kemudian klik tombol enroll now dan akan muncul tampilan seperti ini. Sebelum memulai kelas, peserta dapat memastikan Kembali bahwa kursus, judul, instruktur, durasi sudah sesuai dengan kelas yang ingin Peserta pelajari. Perhatikan tampilan berikut ini merupakan halaman awal sebelum peserta masuk kebagian inti kelas. Kemudian klik start dan masuk ke halaman kelas.
+
+![](/img/my-course_1.4.png)
 
 ### 4. Deskripsi dan Isi Konten
 
