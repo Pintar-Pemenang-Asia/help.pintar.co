@@ -2,9 +2,7 @@
 title: Access User Guide
 sidebar_position: 2
 ---
-
-## Learning Management System (LMS)
-
+## Learning Management System (LMS)  
 
 ## BAGIAN 1: HALAMAN AWAL LMS
 
@@ -22,7 +20,6 @@ Untuk Login ke LMS,lakukan cara berikut:
 
 ![](/img/Enterprise-LMS-Login_1.2.png)
 
-
 Pastikan Kembali bahwa peserta sudah menerima Email untuk verifikasi penggantian Password baru yang akan digunakkan, kemudian login sesuai dengan point diatas.
 
 ![](/img/Enterprise-LMS-Login_1.3.png)
@@ -30,7 +27,6 @@ Pastikan Kembali bahwa peserta sudah menerima Email untuk verifikasi penggantian
 Setelah Peserta berhasil untuk Login, maka akan muncul tampilan Dashboard seperti ini:
 
 ![](/img/Enterprise-LMS-Login_1.4.png)
-
 
 ## BAGIAN 2: EDIT PROFILE
 
@@ -87,7 +83,7 @@ d. Bagian ini menunjukkan progress dan judul – judul kelas yang sedang dikerja
 1. Judul Kursus : Bagian ini merupakan judul - judul kelas yang sedang dikerjakan. Peserta dapat klik judulnya dan akan langsung diarahkan kedalam isi kursus tersebut.
 2. Tipe : Bagian ini merupakan tipe dari pengerjaan kursus tersebut.
 3. Progress : Bagian ini menunjukkan presentase progress dari kursus yang sedang
-dikerjakan peserta.
+   dikerjakan peserta.
 
 ![](/img/Enterprise-LMS-Dashboard_1.2.png)
 
@@ -97,7 +93,7 @@ Bagian ini akan menampilkan course yang peserta sudah selesai kerjakan.
 
 ![](/img/Enterprise-LMS-Dashboard_1.3.png)
 
-1.  Judul Kursus : Bagian ini merupakan judul - judul kelas yang sedang dikerjakan. Peserta dapat klik judulnya dan akan langsung diarahkan kedalam isi kursus tersebut.
+1. Judul Kursus : Bagian ini merupakan judul - judul kelas yang sedang dikerjakan. Peserta dapat klik judulnya dan akan langsung diarahkan kedalam isi kursus tersebut.
 2. Tipe : Bagian ini merupakan tipe dari pengerjaan kursus tersebut. 
 3. Status : Bagian ini menunjukkan status dari pengerjaan kursus tersebut.
 
@@ -136,36 +132,36 @@ Bisa terlihat pada tampilan dibawah ini, yang menunjukan overview dan course con
 
 2. Isi Content
 
-- Video
+* Video
 
 Pada bagian Video ini, peserta dapat membuka tampilan video dengan Full screen, dan juga dapat mengatur resolusi video yang ditampilkan.
 Untuk fitur video ini, Peserta tidak dapat melakukan percepatan video, dikarenakan jika peserta menarik kursor untuk mempercepat video. Maka akan kembali ke durasi awal dimana Peserta terakhir berhenti menonton.
 
 ![](/img/Enterprise-LMS-Video_1.1.png)
 
-- Resolution
+* Resolution
 
 Fitur untuk mengatur jenis resolusi yang akan digunakkan sesuai dengan keinginan Peserta.
 
 ![](/img/Enterprise-LMS-Video_1.2.png)
 
-- Kecepatan Video
+* Kecepatan Video
 
 Fitur ini berguna untuk Peserta dalam memutar video dapat mencepatkan video tersebut. Peserta dapat lebih cepat menyimak video contentnya dengan fungsi fitur ini.
 
 ![](/img/Enterprise-LMS-Video_1.3.png)
 
-- Full Screen
+* Full Screen
 
 Fitur ini berguna untuk Peserta dalam memperbesar layar video. Peserta dapat lebih jelas melihat video content dengan fungsi fitur ini.
 
 ![](/img/Enterprise-LMS-Video_1.4.png)
 
-- Notes
+* Notes
 
 Dalam fitur Notes ini, masing – masing peserta mempunyai fitur tersebut guna untuk membantu peserta mencatat bagian – bagian penting mana saja saat sedang melakukan pemutaran video agar lebih mudah dan tersimpan rapi. Peserta juga dapat mengedit notes yang sudah disimpan. Dalam fitur notes ini, hanya diperuntukkan dan dapat dilihat oleh setiap Peserta, tidak akan bisa terlihat oleh Peserta lainnya.
 
-- Comments
+* Comments
 
 Berbeda dengan fitur notes yang hanya untuk tiap masing – masing Peserta. Dalam fitur ini, Comments digunakan untuk setiap Peserta mengomentari Video yang ditampilkan oleh Pengajar dalam sesi belajar. Seperti layaknya menulis komentar di kanal media sosial jika tidak mengerti bagian isi video seperti contoh yang berada dibawah ini.
 
@@ -175,13 +171,12 @@ Dalam bagian ini terlihat tampilan depan jika Peserta akan mengerjakan Quiz. Dal
 
 ![](/img/Enterprise-LMS-Video_1.1.png)
 
-- Last Attempt
+* Last Attempt
 
 Pada tampilan Last Attempt ini berisi total atau sisa Peserta dapat mengerjakan Quiz. Seperti dalam contoh gambar dibawah ini terlihat hanya tersisa 3 Attemps yang dapat digunakkan oleh Peserta.
 
 > NOTE : Setiap kali Peserta klik “take quiz” atau “retake quiz”, maka jumlah attempt akan otomatis berkurang. Meskipun Peserta tidak menyelesaikan seluruh soal quiz atau submit atau keluar dari halaman quiz tanpa menyelesaikan, jumlah attempt akan tetap berkurang.
 
-- Isi Quiz
+* Isi Quiz
 
 Pada gambar dibawah ini menampilkan isi quiz yang telah disediakan oleh Pengajar, dengan contoh sebanyak 5 pertanyaan dan dengan pilihan ganda. Jumlah pertanyaan akan disesuaikan oleh Pengajar dan akan berbeda di setiap kelas atau materi yang diberikan,
-
