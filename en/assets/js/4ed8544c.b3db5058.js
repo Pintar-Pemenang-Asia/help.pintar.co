@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhelp_pintar_co=self.webpackChunkhelp_pintar_co||[]).push([[767],{7774:i=>{i.exports=JSON.parse('{"label":"jitsi","permalink":"/en/docs/tags/jitsi","allTagsPath":"/en/docs/tags","count":1,"items":[{"id":"faq/jitsi-faq","title":"Jitsi FAQ","description":"ini bahasa inggris","permalink":"/en/docs/faq/jitsi-faq"}]}')}}]);
